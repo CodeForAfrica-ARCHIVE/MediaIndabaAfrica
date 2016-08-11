@@ -1,0 +1,24 @@
+<section class="speakers bg-off-white">
+  <div class="container">
+    <p class="text-right">
+      <img src="/img/assets/assets-12.png"/>
+    </p>
+    <h1 class="text-blue">Featured Speakers</h1>
+    <div class="mugshots">
+      {% for speaker in site.data.speakers %}
+        <div class="col-sm-4">
+          <img src="{{ speaker.img }}" alt="">
+          <p class="lead">{{ speaker.name }}</p>
+          <p>{</p>
+          <p>{{ speaker.org }};</p>
+          <p>></p>
+          <p>{{ speaker.role }};</p>
+          <p>}</p>
+        </div>
+        {% if forloop.index == 6 %}
+            {% break %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

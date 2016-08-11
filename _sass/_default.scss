@@ -1,0 +1,42 @@
+/**
+ * Default items
+ */
+
+html, body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+
+.container {
+  max-width: 800px;
+}
+
+
+
+
+
+
+.text-blue {
+  color: $blue;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-off-white {
+  background-color: $off-white;
+}

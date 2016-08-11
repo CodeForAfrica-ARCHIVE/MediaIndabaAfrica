@@ -1,0 +1,40 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "colors";
+@import "default";
+
+
+.home {
+  .header {
+    background: url('/img/background/banner_1.png') center center;
+    background-size: cover;
+    padding: 120px 0 15px;
+
+    .col-sm-4 {
+      padding-top: 30px;
+      padding-bottom: 30px;
+      a {
+        img {
+          margin: 10px 0;
+        }
+      }
+    }
+
+    a {
+      color: #fff;
+      font-weight: bold;
+      &:hover {
+        text-decoration: none;
+      }
+      .arrow-down {
+        height: 10px;
+      }
+    }
+    
+  }
+
+  .foc
+}
