@@ -36,5 +36,27 @@
     
   }
 
-  .foc
+  .focussing-on {
+    background: url('/img/background/banner_2.png') center center;
+    background-size: cover;
+    padding: 70px 0 70px;
+    color: #fff;
+
+    h2 {
+      display: inline-block;
+      padding-bottom: 10px;
+      border-bottom: 3px solid #fff;
+    }
+
+    p {
+      margin-bottom: 5px;
+      font-size: 26px;
+      a {
+        font-weight: bold;
+        color: #fff;
+      }
+    }
+
+    
+  }
 }

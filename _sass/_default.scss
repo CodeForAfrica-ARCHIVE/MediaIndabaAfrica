@@ -10,6 +10,10 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-size: 35px;
+}
+
 h1, h2, h3, h4 {
   font-weight: bold;
 }
@@ -37,6 +41,14 @@ img {
   color: #fff;
 }
 
+.text-transparent {
+  color: transparent;
+}
+
 .bg-off-white {
   background-color: $off-white;
+}
+
+.bar-white {
+  height: 5px;
 }
