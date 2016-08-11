@@ -4,6 +4,7 @@
 
 html, body {
   font-family: Arial, sans-serif;
+  color: #000;
 }
 
 h1 {
@@ -30,9 +31,6 @@ img {
 
 
 
-
-
-
 .text-blue {
   color: $blue;
 }
@@ -45,10 +43,14 @@ img {
   color: transparent;
 }
 
+.text-indent {
+  padding-left: 55px;
+}
+
 .bg-off-white {
   background-color: $off-white;
 }
 
-.bar-white {
+.bar-white, .bar-blue {
   height: 5px;
 }

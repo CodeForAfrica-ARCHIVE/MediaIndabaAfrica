@@ -56,7 +56,26 @@
         color: #fff;
       }
     }
+    
+  }
 
+  .take-part {
+    padding: 70px 0 70px;
+    p {
+      line-height: 1.8;
+      font-size: 13px;
+      &.lead {
+        font-size: 18px;
+        line-height: 1.2;
+        font-weight: bold;
+        margin-top: 20px;
+      }
+    }
+
+    h4 {
+      margin-top: 0;
+      margin-bottom: 25px;
+    }
     
   }
 }
