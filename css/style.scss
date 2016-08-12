@@ -6,7 +6,6 @@
 @import "colors";
 @import "default";
 
-
 .home {
   .header {
     background: url('/img/background/banner_1.png') center center;
@@ -91,6 +90,39 @@
     }
     .mugshots {
       margin-bottom: 30px;
+      .col-sm-4 {
+        padding: 0;
+        height: 515px;
+        .mugshot {
+          height: 327px;
+          width: 100%;
+          background-color: $blue;
+          background-size: cover;
+          background-position: center center;
+        }
+        .bio {
+          padding: 20px;
+          p {
+            margin-bottom: 0px;
+          }
+          .lead.name {
+            text-transform: uppercase;
+            font-weight: bold;
+            color: $blue;
+          }
+          .org {
+            font-weight: bold;
+          }
+        }
+        &:hover {
+          .bio {
+            background-color: $blue;
+            p {
+              color: #fff !important;
+            }
+          }
+        }
+      }
     }
   }
 

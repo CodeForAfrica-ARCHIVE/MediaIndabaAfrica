@@ -3,15 +3,18 @@
   role: Editor in Chief
   img: /img/assets/assets-photo.png
   img_hover: /img/assets/assets-photo_hover.png
+  css_class: eric
 
 - name: Eric Mill
   org: International Consortium of Investigative Journalists
   role: Editor in Chief
   img: /img/assets/assets-photo.png
   img_hover: /img/assets/assets-photo_hover.png
+  css_class: eric
 
 - name: Eric Mill
   org: International Consortium of Investigative Journalists
   role: Editor in Chief
   img: /img/assets/assets-photo.png
   img_hover: /img/assets/assets-photo_hover.png
+  css_class: eric

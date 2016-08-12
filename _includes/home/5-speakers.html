@@ -7,13 +7,15 @@
     <div class="row mugshots">
       {% for speaker in site.data.speakers %}
         <div class="col-sm-4">
-          <img src="{{ speaker.img }}" alt="">
-          <p class="lead">{{ speaker.name }}</p>
-          <p>{</p>
-          <p>{{ speaker.org }};</p>
-          <p>></p>
-          <p>{{ speaker.role }};</p>
-          <p>}</p>
+          <div class="mugshot {{ speaker.css_class }}"></div>
+          <div class="bio">
+            <p class="lead name">{{ speaker.name }}</p>
+            <p>{</p>
+            <p class="org">{{ speaker.org }};</p>
+            <p>></p>
+            <p>{{ speaker.role }};</p>
+            <p>}</p>
+          </div>
         </div>
         {% if forloop.index == 6 %}
             {% break %}

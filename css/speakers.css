@@ -1,0 +1,15 @@
+---
+---
+/**
+ * Speakers
+ */
+
+{% for speaker in site.data.speakers %}
+.speakers .mugshots .col-sm-4 .mugshot.{{ speaker.css_class }} {
+  background-image: url('{{ speaker.img }}');
+}
+
+.speakers .mugshots .col-sm-4:hover .mugshot.{{ speaker.css_class }} {
+  background-image: url('{{ speaker.img_hover }}');
+}
+{% endfor %}
