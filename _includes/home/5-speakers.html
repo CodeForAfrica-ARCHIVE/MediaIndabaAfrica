@@ -1,10 +1,10 @@
 <section class="speakers bg-off-white">
   <div class="container">
     <p class="text-right">
-      <img src="/img/assets/assets-12.png"/>
+      <img src="/img/assets/assets-12.png" style="height: 150px;" />
     </p>
     <h1 class="text-blue">Featured Speakers</h1>
-    <div class="mugshots">
+    <div class="row mugshots">
       {% for speaker in site.data.speakers %}
         <div class="col-sm-4">
           <img src="{{ speaker.img }}" alt="">
@@ -20,5 +20,6 @@
         {% endif %}
       {% endfor %}
     </div>
+    <p class="text-center"><a href="#" class="btn btn-primary">Find out about all Speakers</a></p>
   </div>
 </section>

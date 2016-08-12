@@ -24,9 +24,67 @@ img {
   max-width: 100%;
 }
 
+.navbar {
+  background-color: transparent;
+  border: none;
+  margin-bottom: -57px;
+  height: 57px;
+  .navbar-header {
+    float: left;
+    .navbar-brand {
+      img {
+        height: 115px
+      }
+    }
+  }
+  
+  .navbar-nav {
+    &.navbar-right {
+      float: right !important;
+    }
+    .open .dropdown-menu {
+      background-color: $blue;
+    }
+    .open>a, .open>a:focus, .open>a:hover {
+      background-color: #fff;
+    }
+    img {
+      height: 21px;
+    }
+  }
+}
 
 .container {
   max-width: 800px;
+}
+
+.btn {
+  border-radius: 0px;
+  font-weight: bold;
+  font-size: 15px;
+  &.btn-primary {
+    background-color: $blue;
+    border-color: $blue;
+    &:hover, &:focus {
+      background-color: #fff;
+      color: $blue;
+    }
+  }
+}
+
+.dropdown-menu {
+  background-color: $blue;
+  border-radius: 0;
+  li {
+    a {
+      color: #fff !important;
+      font-weight: bold;
+      &:hover {
+        color: #000 !important;
+        background-color: #fff !important;
+      }
+    }
+  }
 }
 
 
@@ -53,4 +111,7 @@ img {
 
 .bar-white, .bar-blue {
   height: 5px;
+}
+.arrow-down, .arrow-up {
+  height: 10px;
 }
