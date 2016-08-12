@@ -42,14 +42,14 @@ img {
     &.navbar-right {
       float: right !important;
     }
-    .open .dropdown-menu {
-      background-color: $blue;
-    }
     .open>a, .open>a:focus, .open>a:hover {
       background-color: #fff;
     }
-    img {
-      height: 21px;
+    a.dropdown-toggle {
+      float: right !important;
+      img {
+        height: 21px;
+      }
     }
   }
 }
@@ -73,12 +73,14 @@ img {
 }
 
 .dropdown-menu {
-  background-color: $blue;
   border-radius: 0;
+  padding: 0;
   li {
     a {
+      background-color: $blue;
       color: #fff !important;
       font-weight: bold;
+      padding: 13px 20px !important;
       &:hover {
         color: #000 !important;
         background-color: #fff !important;
