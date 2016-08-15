@@ -32,6 +32,13 @@
     
   }
 
+  .header-links {
+    padding: 50px 0;
+    p.lead {
+      margin-bottom: 0;
+    }
+  }
+
   .focussing-on {
     background: url('/img/background/banner_2.png') center center;
     background-size: cover;
