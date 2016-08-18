@@ -186,8 +186,8 @@
           }
         }
         &:hover {
+          background-color: $blue;
           .bio {
-            background-color: $blue;
             p {
               color: #fff !important;
             }
