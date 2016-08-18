@@ -1,0 +1,13 @@
+<div style="height: 0px; overflow: hidden;">
+  <img src="/img/buttons/but-block01_hover.png"/>
+  <img src="/img/buttons/but-block02_hover.png"/>
+  <img src="/img/buttons/but-block03_hover.png"/>
+  <img src="/img/buttons/but-block04_hover.png"/>
+
+  {% for speaker in site.data.speakers %}
+    <img src="{{ speaker.img_hover }}"/>
+    {% if forloop.index == 6 %}
+        {% break %}
+    {% endif %}
+  {% endfor %}
+</div>
