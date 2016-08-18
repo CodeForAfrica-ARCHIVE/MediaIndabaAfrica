@@ -146,7 +146,7 @@
 
   .join-the-party {
     padding: 70px 0 70px;
-    background: url('/img/background/banner_3.png') center center;
+    background: url('/img/background/banner_3.png') $blue center center;
     background-size: cover;
   }
 
@@ -198,7 +198,7 @@
 
   .where-when {
     padding: 170px 0 170px;
-    background: url('/img/background/banner_4.png') center bottom;
+    background: url('/img/background/banner_4.png') $blue center bottom;
     background-size: cover;
 
     h2 {
