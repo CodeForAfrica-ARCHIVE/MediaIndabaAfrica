@@ -217,9 +217,24 @@
     background-color: #fff;
     .organised-by {
       padding: 30px 0;
+      a {
+        margin: 0 5px;
+        img {
+          height: 80px;
+          margin: 10px 5px;
+        }
+      }
+      
     }
     .support-from {
       padding: 30px 0;
+      a {
+        margin: 0 5px;
+        img {
+          height: 60px;
+          margin: 5px 5px;
+        }
+      }
     }
 
     p {
