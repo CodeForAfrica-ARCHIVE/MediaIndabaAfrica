@@ -8,7 +8,7 @@
 
 .home {
   .header {
-    background: url('/img/background/banner_1.png') center center;
+    background-color: transparent;
     background-size: cover;
     padding: 150px 0 15px;
 
@@ -32,7 +32,43 @@
     
   }
 
+
+  .fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+  }
+
+  .fullscreen-bg__video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    -webkit-transform: translate(-50%, -50%);
+       -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+  }
+
+  @media (max-width: 767px) {
+    .header {
+      background: url('/img/background/banner_1.png') center center / cover no-repeat;
+    }
+    .fullscreen-bg, .fullscreen-bg__video {
+      display: none;
+    }
+  }
+
+
   .header-links {
+    background-color: #fff;
     padding: 50px 0;
     p.lead {
       margin-bottom: 0;
@@ -150,6 +186,7 @@
 
 
   .logos {
+    background-color: #fff;
     .organised-by {
       padding: 30px 0;
     }
