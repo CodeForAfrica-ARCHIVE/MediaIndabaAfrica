@@ -12,12 +12,30 @@
     background-size: cover;
     padding: 150px 0 15px;
 
-    .col-sm-4 {
+    .col-sm-4.button {
       padding-top: 30px;
       padding-bottom: 30px;
       a {
-        img {
-          margin: 10px 0;
+        height: 85px;
+        display: block;
+      }
+
+      &.button-1 a {
+        background: url('/img/buttons/but-block01.png') center center / contain no-repeat;
+        &:hover {
+          background: url('/img/buttons/but-block01_hover.png') center center / contain no-repeat;
+        }
+      }
+      &.button-2 a {
+        background: url('/img/buttons/but-block02.png') center center / contain no-repeat;
+        &:hover {
+          background: url('/img/buttons/but-block02_hover.png') center center / contain no-repeat;
+        }
+      }
+      &.button-3 a {
+        background: url('/img/buttons/but-block03.png') center center / contain no-repeat;
+        &:hover {
+          background: url('/img/buttons/but-block03_hover.png') center center / contain no-repeat;
         }
       }
     }
@@ -114,6 +132,15 @@
     h4 {
       margin-top: 0;
       margin-bottom: 25px;
+    }
+
+    a.button-register {
+      height: 85px;
+      display: block;
+      background: url('/img/buttons/but-block04.png') center center / contain no-repeat;
+      &:hover {
+        background: url('/img/buttons/but-block04_hover.png') center center / contain no-repeat;
+      }
     }
     
   }
