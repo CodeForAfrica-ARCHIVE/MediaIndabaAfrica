@@ -16,6 +16,12 @@
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
         
         <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+        
+        <script type="text/javascript">
+          var host = "{{ site.enforce_ssl }}";
+          if ((host == window.location.host) && (window.location.protocol != "https:"))
+              window.location.protocol = "https";
+        </script>
 
         <link rel="stylesheet" href="/css/normalize.css">
         <link rel="stylesheet" href="/css/main.css">
@@ -46,7 +52,6 @@
 
         <script src="/js/vendor/bootstrap.min.js"></script>
         <script src="/js/main.js"></script>
-
 
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
