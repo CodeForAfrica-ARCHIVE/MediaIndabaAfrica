@@ -1,20 +1,20 @@
-- name: Eric Mill
-  org: International Consortium of Investigative Journalists
-  role: Editor in Chief
-  img: /img/assets/assets-photo.png
-  img_hover: /img/assets/assets-photo_hover.png
-  css_class: eric
+- name: Adi Eyal
+  org: Code for South Africa
+  role: Founder
+  img: /img/speakers/adi.png
+  img_hover: /img/speakers/adi_glitch.jpg
+  css_class: adi
 
-- name: Eric Mill
-  org: International Consortium of Investigative Journalists
-  role: Editor in Chief
-  img: /img/assets/assets-photo.png
-  img_hover: /img/assets/assets-photo_hover.png
-  css_class: eric
+- name: Latoya Peterson
+  org: Digital Innovation for The Undefeated at ESPN
+  role: Deputy Editor
+  img: /img/speakers/latoya.png
+  img_hover: /img/speakers/latoya_glitch.jpg
+  css_class: latoya
 
-- name: Eric Mill
-  org: International Consortium of Investigative Journalists
-  role: Editor in Chief
-  img: /img/assets/assets-photo.png
-  img_hover: /img/assets/assets-photo_hover.png
-  css_class: eric
+- name: Sandra Moscoso
+  org: World Bank Group
+  role: Open Government and Open Data Program Manager
+  img: /img/speakers/sandra.png
+  img_hover: /img/speakers/sandra_glitch.jpg
+  css_class: sandra
