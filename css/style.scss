@@ -190,22 +190,6 @@
     }
   }
 
-
-  .where-when {
-    padding: 170px 0 170px;
-    background: url('/img/background/banner_4.png') $blue center bottom;
-    background-size: cover;
-
-    h2 {
-      font-size: 40px;
-    }
-
-    .bar-white {
-      width:35px;
-    }
-  }
-
-
   .logos {
     background-color: #fff;
 
@@ -241,5 +225,12 @@
     p {
       font-weight: bold;
     }
+  }
+}
+
+
+.accommodation {
+  .where-when {
+    background: url('/img/background/banner_4.png') $blue center bottom;
   }
 }
