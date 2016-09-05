@@ -119,23 +119,11 @@
   }
 
   .take-part {
-    padding: 70px 0 70px;
-    p {
-      line-height: 1.8;
-      font-size: 13px;
-      &.lead {
-        font-size: 18px;
-        line-height: 1.2;
-        font-weight: bold;
-        margin-top: 20px;
-      }
-    }
-
+    // Inherited into bg-off-white
     h4 {
-      margin-top: 0;
+      color: #000;
       margin-bottom: 25px;
     }
-    
   }
 
 
@@ -230,7 +218,27 @@
 
 
 .accommodation {
+  
+  .lead-text {
+    padding: 60px 0;
+    background-color: $blue;
+    color: #fff;
+    p {
+      font-weight: bold;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .locations {
+    .bar-blue {
+      height: 3px;
+    }
+  }
+
   .where-when {
-    background: url('/img/background/banner_4.png') $blue center bottom;
+    background-image: url('/img/background/accommodation_key.png');
+    background-position: center top;
   }
 }

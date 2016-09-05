@@ -31,6 +31,7 @@ img {
   max-width: 100%;
 }
 
+
 .navbar {
   background-color: transparent;
   border: none;
@@ -114,8 +115,31 @@ img {
   padding-left: 55px;
 }
 
+p.list-item {
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 5px 0;
+  border-bottom: 1px $blue solid;
+}
+
 .bg-off-white {
   background-color: $off-white;
+  padding: 60px 0 60px;
+  p {
+    line-height: 1.8;
+    font-size: 13px;
+    &.lead {
+      font-size: 18px;
+      line-height: 1.2;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+  }
+
+  h4 {
+    margin-top: 0;
+    color: $blue;
+  }
 }
 
 .bar-white, .bar-blue {
@@ -151,8 +175,25 @@ footer {
       color: #000;
     }
     i {
-      padding: 0 5px;
+      padding: 0 4px;
     }
+    &:last-child i {
+      padding-right: 0px;
+    }
+  }
+}
+
+
+.page {
+  .header {
+    background-color: #fff;
+    color: $blue;
+    padding: 200px 0;
+    background-size: cover;
+    h1 {
+      font-size: 70px;
+    }
+    
   }
 }
 
