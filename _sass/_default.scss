@@ -124,3 +124,34 @@ img {
 .arrow-down, .arrow-up {
   height: 10px !important;
 }
+
+a.button-register {
+  height: 85px;
+  display: block;
+  background: url('/img/buttons/but-block04.png') center center / contain no-repeat;
+  &:hover {
+    background: url('/img/buttons/but-block04_hover.png') center center / contain no-repeat;
+  }
+}
+
+
+footer {
+  color: #fff;
+  background-color: $blue;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  p {
+    padding: 30px 0 0;
+  }
+
+  a {
+    color: #fff;
+    &:hover {
+      color: #000;
+    }
+    i {
+      padding: 0 5px;
+    }
+  }
+}
