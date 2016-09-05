@@ -107,7 +107,7 @@ img {
   color: #fff;
 }
 
-.text-transparent {
+.text-transparent, .text-invisible {
   color: transparent !important;
 }
 
@@ -124,7 +124,7 @@ p.list-item {
 
 .bg-off-white {
   background-color: $off-white;
-  padding: 60px 0 60px;
+  padding: 70px 0;
   p {
     line-height: 1.8;
     font-size: 13px;
@@ -136,9 +136,28 @@ p.list-item {
     }
   }
 
-  h4 {
-    margin-top: 0;
+  h1, h3, h4 {
     color: $blue;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h1 {
+    font-size: 65px;
+    margin-bottom: 30px;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+    i {
+      color: $blue;
+    }
+    &:hover {
+      color: $blue;
+      i {
+        color: #000;
+      }
+    }
   }
 }
 
@@ -166,7 +185,7 @@ footer {
   padding-bottom: 30px;
 
   p {
-    padding: 30px 0 0;
+    padding: 25px 0 0;
   }
 
   a {

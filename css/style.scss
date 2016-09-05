@@ -208,6 +208,9 @@
     }
     .support-from {
       padding: 30px 0;
+      a {
+        text-decoration: none;
+      }
     }
 
     p {
@@ -217,7 +220,7 @@
 }
 
 
-.accommodation {
+.page.accommodation {
   
   .lead-text {
     padding: 60px 0;
@@ -241,4 +244,14 @@
     background-image: url('/img/background/accommodation_key.png');
     background-position: center top;
   }
+}
+
+
+.page.cape-town {
+
+  .where-when {
+    background-image: url('/img/background/capetown_campsbay.png');
+    background-position: center center;
+  }
+
 }
