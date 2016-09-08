@@ -19,20 +19,6 @@
   img_hover: /img/speakers/ben_glitch.png
   css_class: ben
 
-- name: Hadi Alkhatib
-  org: Bellingcat
-  role: 
-  img: /img/speakers/hadi.png
-  img_hover: /img/speakers/hadi_glitch.png
-  css_class: hadi
-
-- name: Kainaz Amaria
-  org: Vox
-  role: 
-  img: /img/speakers/kainaz.png
-  img_hover: /img/speakers/kainaz_glitch.png
-  css_class: kainaz
-
 - name: Mike Tigas
   org: Pro Publica
   role: Hacker-Journalist
@@ -53,6 +39,20 @@
   img: /img/speakers/sebastian.png
   img_hover: /img/speakers/sebastian_glitch.png
   css_class: sebastian
+
+- name: Hadi Alkhatib
+  org: Bellingcat
+  role: 
+  img: /img/speakers/hadi.png
+  img_hover: /img/speakers/hadi_glitch.png
+  css_class: hadi
+
+- name: Kainaz Amaria
+  org: Vox
+  role: 
+  img: /img/speakers/kainaz.png
+  img_hover: /img/speakers/kainaz_glitch.png
+  css_class: kainaz
 
 - name: Yinka Adegoke
   org: Quartz
