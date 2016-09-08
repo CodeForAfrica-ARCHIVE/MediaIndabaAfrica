@@ -12,9 +12,51 @@
   img_hover: /img/speakers/latoya_glitch.jpg
   css_class: latoya
 
-- name: Sandra Moscoso
-  org: World Bank Group
-  role: Open Government and Open Data Program Manager
-  img: /img/speakers/sandra.png
-  img_hover: /img/speakers/sandra_glitch.jpg
-  css_class: sandra
+- name: Ben Kreimer
+  org: Buzzfeed Labs
+  role: Fellow
+  img: /img/speakers/ben.png
+  img_hover: /img/speakers/ben_glitch.png
+  css_class: ben
+
+- name: Hadi Alkhatib
+  org: Bellingcat
+  role: 
+  img: /img/speakers/hadi.png
+  img_hover: /img/speakers/hadi_glitch.png
+  css_class: hadi
+
+- name: Kainaz Amaria
+  org: Vox
+  role: 
+  img: /img/speakers/kainaz.png
+  img_hover: /img/speakers/kainaz_glitch.png
+  css_class: kainaz
+
+- name: Mike Tigas
+  org: Pro Publica
+  role: Hacker-Journalist
+  img: /img/speakers/mike.png
+  img_hover: /img/speakers/mike_glitch.png
+  css_class: mike
+
+- name: Nasr Ul Hadi
+  org: Hindustan Times
+  role: ICFJ Knight Fellow
+  img: /img/speakers/nasr.png
+  img_hover: /img/speakers/nasr_glitch.png
+  css_class: nasr
+
+- name: Sebastian Mundial
+  org: ZEIT Investigativ
+  role: Data, Forensic & Security Specialist
+  img: /img/speakers/sebastian.png
+  img_hover: /img/speakers/sebastian_glitch.png
+  css_class: sebastian
+
+- name: Yinka Adegoke
+  org: Quartz
+  role: Africa Editor
+  img: /img/speakers/yinka.png
+  img_hover: /img/speakers/yinka_glitch.png
+  css_class: yinka
