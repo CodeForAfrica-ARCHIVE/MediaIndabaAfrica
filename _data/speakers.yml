@@ -1,3 +1,17 @@
+- name: Yinka Adegoke
+  org: Quartz
+  role: Africa Editor
+  img: /img/speakers/yinka.png
+  img_hover: /img/speakers/yinka_glitch.png
+  css_class: yinka
+
+- name: Kainaz Amaria
+  org: Vox
+  role: Storytelling Design Director
+  img: /img/speakers/kainaz.png
+  img_hover: /img/speakers/kainaz_glitch.png
+  css_class: kainaz
+
 - name: Adi Eyal
   org: Code for South Africa
   role: Founder
@@ -11,13 +25,6 @@
   img: /img/speakers/latoya.png
   img_hover: /img/speakers/latoya_glitch.jpg
   css_class: latoya
-
-- name: Ben Kreimer
-  org: Buzzfeed Labs
-  role: Fellow
-  img: /img/speakers/ben.png
-  img_hover: /img/speakers/ben_glitch.png
-  css_class: ben
 
 - name: Mike Tigas
   org: Pro Publica
@@ -33,12 +40,26 @@
   img_hover: /img/speakers/nasr_glitch.png
   css_class: nasr
 
+- name: Ben Kreimer
+  org: Buzzfeed Labs
+  role: Fellow
+  img: /img/speakers/ben.png
+  img_hover: /img/speakers/ben_glitch.png
+  css_class: ben
+
 - name: Sebastian Mundial
   org: ZEIT Investigativ
   role: Data, Forensic & Security Specialist
   img: /img/speakers/sebastian.png
   img_hover: /img/speakers/sebastian_glitch.png
   css_class: sebastian
+
+- name: Catherine Gicheru
+  org: Code for Kenya
+  role: Lead
+  img: /img/speakers/catherine.png
+  img_hover: /img/speakers/catherine_glitch.png
+  css_class: catherine
 
 - name: Hadi Alkhatib
   org: Bellingcat
@@ -47,16 +68,4 @@
   img_hover: /img/speakers/hadi_glitch.png
   css_class: hadi
 
-- name: Kainaz Amaria
-  org: Vox
-  role: 
-  img: /img/speakers/kainaz.png
-  img_hover: /img/speakers/kainaz_glitch.png
-  css_class: kainaz
 
-- name: Yinka Adegoke
-  org: Quartz
-  role: Africa Editor
-  img: /img/speakers/yinka.png
-  img_hover: /img/speakers/yinka_glitch.png
-  css_class: yinka
