@@ -70,9 +70,11 @@ img {
   border-radius: 0px;
   font-weight: bold;
   font-size: 15px;
+  text-decoration: none;
   &.btn-primary {
     background-color: $blue;
     border-color: $blue;
+    color: #fff;
     &:hover, &:focus {
       background-color: #fff;
       color: $blue;
