@@ -1,6 +1,7 @@
 - name: Yinka Adegoke
   org: Quartz
   role: Africa Editor
+  long_bio: Yinka Adegoke is Africa editor for Quartz where he oversees and coordinates coverage of the news and ideas in partnership with writers across the continent. He has reported from more than 10 countries across Europe, Africa and the Americas.
   img: /img/speakers/yinka.png
   img_hover: /img/speakers/yinka_glitch.png
   css_class: yinka
@@ -8,6 +9,7 @@
 - name: Kainaz Amaria
   org: Vox
   role: Storytelling Design Director
+  long_bio: Kainaz Amaria is the Storytelling Design Director at Vox Media's Storytelling Studio. She's a visual storyteller who pushes her team to put the user first and craft experiences that matter. 
   img: /img/speakers/kainaz.png
   img_hover: /img/speakers/kainaz_glitch.png
   css_class: kainaz
@@ -15,6 +17,7 @@
 - name: Adi Eyal
   org: Code for South Africa
   role: Founder
+  long_bio: Adi Eyal is the founder of Code for South Africa, a civic technology organisation promoting usage of data in order to drive social change, and a Code for Africa Fellow.
   img: /img/speakers/adi.png
   img_hover: /img/speakers/adi_glitch.jpg
   css_class: adi
@@ -22,6 +25,7 @@
 - name: Latoya Peterson
   org: Digital Innovation for The Undefeated at ESPN
   role: Deputy Editor
+  long_bio: Latoya Peterson is the deputy editor of digital innovation for The Undefeated at ESPN. She provides a hip-hop feminist and anti-racist view on pop culture with a special focus on video games, film, television, and music.
   img: /img/speakers/latoya.png
   img_hover: /img/speakers/latoya_glitch.jpg
   css_class: latoya
@@ -29,6 +33,7 @@
 - name: Mike Tigas
   org: Pro Publica
   role: Hacker-Journalist
+  long_bio: Mike Tigas is a developer, journalist, photographer, civic hacker, and security/privacy tinkerer at ProPublica.
   img: /img/speakers/mike.png
   img_hover: /img/speakers/mike_glitch.png
   css_class: mike
@@ -36,6 +41,7 @@
 - name: Nasr Ul Hadi
   org: Hindustan Times
   role: ICFJ Knight Fellow
+  long_bio: Nasr ul Hadi is an ICFJ Knight Fellow and works with media and news-related organizations in India to develop and expand the use of news technologies and improve access to quality information.
   img: /img/speakers/nasr.png
   img_hover: /img/speakers/nasr_glitch.png
   css_class: nasr
@@ -43,6 +49,7 @@
 - name: Ben Kreimer
   org: Buzzfeed Labs
   role: Fellow
+  long_bio: Ben Kreimer is a journalism technologist and the beta fellow for BuzzFeed’s Open Lab Fellowship. He’s also an adviser with the Drone Journalism Lab and Kenya based African SkyCAM.
   img: /img/speakers/ben.png
   img_hover: /img/speakers/ben_glitch.png
   css_class: ben
@@ -50,6 +57,7 @@
 - name: Sebastian Mundial
   org: ZEIT Investigativ
   role: Data, Forensic & Security Specialist
+  long_bio: Sebastian Mondial works in investigative journalism as a data & forensic specialist and security expert. He works with some of the finest investigative journalists at Die ZEIT in Germany, and also trains people around the globe, analysing their investigative habits and changing these to be more secure. He’s worked with ICIJ, UNICRI, Google, dpa, NDR, ecolot, ip-team and many more. 
   img: /img/speakers/sebastian.png
   img_hover: /img/speakers/sebastian_glitch.png
   css_class: sebastian
@@ -57,15 +65,63 @@
 - name: Catherine Gicheru
   org: Code for Kenya
   role: Lead
+  long_bio: Catherine Gicheru is an award-winning print journalist who became the first woman news editor in Kenya. She is the founding editor of the Star and an ICFJ Knight International Journalism Fellow with the Code for Kenya (CfKenya) where she supervises a teams of data journalists and technologists based at news partner organisations and CitizenLabs in Kenya.
   img: /img/speakers/catherine.png
   img_hover: /img/speakers/catherine_glitch.png
   css_class: catherine
+  
+- name: Andres Snitcofsky
+  org: Cargografias
+  role: Lead & Motion Graphics Designer
+  long_bio: Andres Snitcofsky is a lead project manager and motion graphics designer at Cargografias, and experiments with data visualization.
+  img: /img/speakers/andres.png
+  img_hover: /img/speakers/andres_glitch.png
+  css_class: andres
 
-- name: Hadi Alkhatib
-  org: Bellingcat
-  role: 
-  img: /img/speakers/hadi.png
-  img_hover: /img/speakers/hadi_glitch.png
-  css_class: hadi
+- name: Douglas Arellanes
+  org: Sourcefabric
+  role: Co-founder and Director of Innovation
+  long_bio: Douglas Arellanes is the co-founder and director of innovation at Sourcefabric, Europe’s largest developer of open source tools for news media.
+  img: /img/speakers/douglas.png
+  img_hover: /img/speakers/douglas_glitch.png
+  css_class: douglas
 
+- name: George Conard
+  org: Google
+  role: Jigsaw Product Manager
+  long_bio: George Conard is a product manager for Jigsaw at Google with expertise in product development, cloud-based and mobile services, and technology applications for the developing world.
+  img: /img/speakers/george.png
+  img_hover: /img/speakers/george_glitch.png
+  css_class: george
 
+- name: Jacopo Ottaviani
+  org: Code for Africa
+  role: Fellow
+  long_bio: Jacopo Ottaviani is a Code for Africa Fellow, and an award-winning journalist specialising in data driven investigation and cross-media storytelling.
+  img: /img/speakers/jacopo.png
+  img_hover: /img/speakers/jacopo_glitch.png
+  css_class: jacopo
+
+- name: Nic Dawes
+  org: Media at Human Rights Watch
+  role: Director
+  long_bio: Nic Dawes heads Media at Human Rights Watch, a global non-profit known for its accurate fact-finding, impartial reporting, and targeted advocacy. He was previously Chief Content Officer at India's Hindustan Times and Editor-in-Chief at South Africa's Mail & Guardian.  
+  img: /img/speakers/nic.png
+  img_hover: /img/speakers/nic_glitch.png
+  css_class: nic
+
+- name: Nuno Vargas
+  org: Artear
+  role: Digital Strategist and Mentor
+  long_bio: Nuno Vargas is a product designer, digital strategist and design thinking evangelist with an infectious enthusiasm for powerful digital storytelling and the use of data. He’s been working in media production and design in Europe, Latin America, Morocco, Nigeria, Ghana, Thailand and the USA, developing media related and corporate projects and facilitating training on Design Thinking, Mobile and Data Driven applications.
+  img: /img/speakers/nuno.png
+  img_hover: /img/speakers/nuno_glitch.png
+  css_class: nuno
+
+- name: Omar Mohammed
+  org: Code for Tanzania
+  role: Lead
+  long_bio: Omar Mohammed is an ICFJ Knight Fellow with Code for Africa in Tanzania. Prior to becoming a fellow he was East Africa reporter with Quartz covering politics, business, technology and sports. He tweets @shurufu. 
+  img: /img/speakers/omar.png
+  img_hover: /img/speakers/omar_glitch.png
+  css_class: omar

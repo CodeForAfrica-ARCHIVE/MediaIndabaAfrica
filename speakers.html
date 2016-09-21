@@ -1,0 +1,39 @@
+---
+layout: page
+body_class: page speakers
+
+title: Speakers
+permalink: speakers
+header_bg: /img/background/banner_1.png
+---
+
+<section class="bg-off-white">
+  <div class="container">
+    <div class="row mugshots bios">
+      {% for speaker in site.data.speakers %}
+        <div class="long-bio">
+          <div class="col-sm-4">
+            <div class="mugshot {{ speaker.css_class }}"></div>
+          </div>
+          <div class="col-sm-8">
+            <p><img src="/img/assets/assets-bar_blue.png" alt="" class="bar-blue"></p>
+            <p class="lead name">{{ speaker.name }}</p>
+            <p>{</p>
+            <p class="org">{{ speaker.org }}; {{ speaker.role }};</p>
+            <p>></p>
+            <p>{{ speaker.long_bio }};</p>
+            <p>}</p>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+
+<div style="height: 0px; overflow: hidden;">
+  {% for speaker in site.data.speakers %}
+    <img src="{{ speaker.img_hover }}"/>
+  {% endfor %}
+</div>

@@ -235,3 +235,42 @@ footer {
     width:35px;
   }
 }
+
+
+.mugshots {
+  margin-bottom: 30px;
+  .col-sm-4 {
+    padding: 0;
+    height: 515px;
+    .mugshot {
+      height: 327px;
+      width: 100%;
+      background-color: $blue;
+      background-size: cover;
+      background-position: center center;
+    }
+    .bio {
+      padding: 20px;
+      p {
+        margin-bottom: 0px;
+      }
+      .lead.name {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: $blue;
+        margin-top: 0;
+      }
+      .org {
+        font-weight: bold;
+      }
+    }
+    &:hover {
+      background-color: $blue;
+      .bio {
+        p {
+          color: #fff !important;
+        }
+      }
+    }
+  }
+}
