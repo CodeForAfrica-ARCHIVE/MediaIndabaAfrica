@@ -102,13 +102,13 @@
   img_hover: /img/speakers/jacopo_glitch.png
   css_class: jacopo
 
-- name: Nic Dawes
-  org: Media at Human Rights Watch
-  role: Director
-  long_bio: Nic Dawes heads Media at Human Rights Watch, a global non-profit known for its accurate fact-finding, impartial reporting, and targeted advocacy. He was previously Chief Content Officer at India's Hindustan Times and Editor-in-Chief at South Africa's Mail & Guardian.  
-  img: /img/speakers/nic.png
-  img_hover: /img/speakers/nic_glitch.png
-  css_class: nic
+# - name: Nic Dawes
+#   org: Media at Human Rights Watch
+#   role: Director
+#   long_bio: Nic Dawes heads Media at Human Rights Watch, a global non-profit known for its accurate fact-finding, impartial reporting, and targeted advocacy. He was previously Chief Content Officer at India's Hindustan Times and Editor-in-Chief at South Africa's Mail & Guardian.  
+#   img: /img/speakers/nic.png
+#   img_hover: /img/speakers/nic_glitch.png
+#   css_class: nic
 
 - name: Nuno Vargas
   org: '-'
