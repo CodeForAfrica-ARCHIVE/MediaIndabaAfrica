@@ -1,3 +1,11 @@
+- name: Kainaz Amaria
+  org: Vox
+  role: Storytelling Design Director
+  long_bio: Kainaz Amaria is the Storytelling Design Director at Vox Media's Storytelling Studio. She's a visual storyteller who pushes her team to put the user first and craft experiences that matter. 
+  img: /img/speakers/kainaz.png
+  img_hover: /img/speakers/kainaz_glitch.png
+  css_class: kainaz
+
 - name: Yinka Adegoke
   org: Quartz
   role: Africa Editor
@@ -6,13 +14,45 @@
   img_hover: /img/speakers/yinka_glitch.png
   css_class: yinka
 
-- name: Kainaz Amaria
-  org: Vox
-  role: Storytelling Design Director
-  long_bio: Kainaz Amaria is the Storytelling Design Director at Vox Media's Storytelling Studio. She's a visual storyteller who pushes her team to put the user first and craft experiences that matter. 
-  img: /img/speakers/kainaz.png
-  img_hover: /img/speakers/kainaz_glitch.png
-  css_class: kainaz
+- name: Charlene Beukes
+  org: The Huffington Post, South Africa
+  role: General Manager
+  long_bio: Charlene has been in the media industry in South Africa for more than 20 years with a career spanning newspapers and magazines and digital in various positions in the NASPERS group and Media24. She was recently appointed to head up the Huffington Post South Africa, due to launch on 21 November 2016. She fundamentally believes the combination of journalism and tech can change the world.
+  img: /img/speakers/charlene.jpg
+  img_hover: /img/speakers/charlene_glitch.jpg
+  css_class: charlene
+
+- name: Alastair Reid
+  org: First Draft
+  role: Managing editor
+  long_bio: Alastair Reid is managing editor of First Draft, a coalition of expert organisations providing training, resources and articles on the use of eyewitness media in news coverage. He was previously editor of Journalism.co.uk, Europe’s leading publication on digital innovation in journalism.
+  img: /img/speakers/alastair.jpg
+  img_hover: /img/speakers/alastair_glitch.jpg
+  css_class: alastair
+  
+- name: Latoya Peterson
+  org: Digital Innovation for The Undefeated at ESPN
+  role: Deputy Editor
+  long_bio: Latoya Peterson is the deputy editor of digital innovation for The Undefeated at ESPN. She provides a hip-hop feminist and anti-racist view on pop culture with a special focus on video games, film, television, and music.
+  img: /img/speakers/latoya.png
+  img_hover: /img/speakers/latoya_glitch.jpg
+  css_class: latoya
+
+- name: Ben Kreimer
+  org: Buzzfeed Labs
+  role: Fellow
+  long_bio: Ben Kreimer is a journalism technologist and the beta fellow for BuzzFeed’s Open Lab Fellowship. He’s also an adviser with the Drone Journalism Lab and Kenya based African SkyCAM.
+  img: /img/speakers/ben.png
+  img_hover: /img/speakers/ben_glitch.png
+  css_class: ben
+
+- name: Chika Oduah
+  org: Code for Nigeria
+  role: Journalist
+  long_bio: Chika Oduah is a multimedia journalist and has reported from the United States, Africa and Central America. Focusing on stories of the African global diaspora, Chika’s reporting explores culture, human rights, history, spirituality, development and conflict in Africa and in African communities around the world. She is one of the few journalists reporting on-the-ground from northeastern Nigeria, the heartland of the extremist group, Boko Haram. Her work has been published by The New York Times, The Guardian, CNN, Al Jazeera and other outlets.
+  img: /img/speakers/chika.jpg
+  img_hover: /img/speakers/chika_glitch.jpg
+  css_class: chika
 
 - name: Adi Eyal
   org: Code for South Africa
@@ -22,13 +62,21 @@
   img_hover: /img/speakers/adi_glitch.jpg
   css_class: adi
 
-- name: Latoya Peterson
-  org: Digital Innovation for The Undefeated at ESPN
-  role: Deputy Editor
-  long_bio: Latoya Peterson is the deputy editor of digital innovation for The Undefeated at ESPN. She provides a hip-hop feminist and anti-racist view on pop culture with a special focus on video games, film, television, and music.
-  img: /img/speakers/latoya.png
-  img_hover: /img/speakers/latoya_glitch.jpg
-  css_class: latoya
+- name: Catherine Gicheru
+  org: Code for Kenya
+  role: Lead
+  long_bio: Catherine Gicheru is an award-winning print journalist who became the first woman news editor in Kenya. She is the founding editor of the Star and an ICFJ Knight International Journalism Fellow with the Code for Kenya (CfKenya) where she supervises a teams of data journalists and technologists based at news partner organisations and CitizenLabs in Kenya.
+  img: /img/speakers/catherine.png
+  img_hover: /img/speakers/catherine_glitch.png
+  css_class: catherine
+
+- name: Sebastian Mondial
+  org: ZEIT Investigativ
+  role: Data, Forensic & Security Specialist
+  long_bio: Sebastian Mondial works in investigative journalism as a data & forensic specialist and security expert. He works with some of the finest investigative journalists at Die ZEIT in Germany, and also trains people around the globe, analysing their investigative habits and changing these to be more secure. He’s worked with ICIJ, UNICRI, Google, dpa, NDR, ecolot, ip-team and many more. 
+  img: /img/speakers/sebastian.png
+  img_hover: /img/speakers/sebastian_glitch.png
+  css_class: sebastian
 
 - name: Mike Tigas
   org: Pro Publica
@@ -46,30 +94,6 @@
   img_hover: /img/speakers/nasr_glitch.png
   css_class: nasr
 
-- name: Ben Kreimer
-  org: Buzzfeed Labs
-  role: Fellow
-  long_bio: Ben Kreimer is a journalism technologist and the beta fellow for BuzzFeed’s Open Lab Fellowship. He’s also an adviser with the Drone Journalism Lab and Kenya based African SkyCAM.
-  img: /img/speakers/ben.png
-  img_hover: /img/speakers/ben_glitch.png
-  css_class: ben
-
-- name: Sebastian Mondial
-  org: ZEIT Investigativ
-  role: Data, Forensic & Security Specialist
-  long_bio: Sebastian Mondial works in investigative journalism as a data & forensic specialist and security expert. He works with some of the finest investigative journalists at Die ZEIT in Germany, and also trains people around the globe, analysing their investigative habits and changing these to be more secure. He’s worked with ICIJ, UNICRI, Google, dpa, NDR, ecolot, ip-team and many more. 
-  img: /img/speakers/sebastian.png
-  img_hover: /img/speakers/sebastian_glitch.png
-  css_class: sebastian
-
-- name: Catherine Gicheru
-  org: Code for Kenya
-  role: Lead
-  long_bio: Catherine Gicheru is an award-winning print journalist who became the first woman news editor in Kenya. She is the founding editor of the Star and an ICFJ Knight International Journalism Fellow with the Code for Kenya (CfKenya) where she supervises a teams of data journalists and technologists based at news partner organisations and CitizenLabs in Kenya.
-  img: /img/speakers/catherine.png
-  img_hover: /img/speakers/catherine_glitch.png
-  css_class: catherine
-  
 - name: Andres Snitcofsky
   org: Cargografias
   role: Lead & Motion Graphics Designer
