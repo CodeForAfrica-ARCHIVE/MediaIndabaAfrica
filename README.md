@@ -7,7 +7,7 @@
 
 ## Installation
 
-This is a Jekyll powered website hosted on Github Pages. Get started with Jekyll docs [here](https://jekyllrb.com) and learn more about Github pages [here](https://pages.github.com/)
+This is a Jekyll powered website hosted on Github Pages. Get started with Jekyll docs [here](https://jekyllrb.com) and learn more about Github pages [here](https://pages.github.com/).
 
 
 ---
