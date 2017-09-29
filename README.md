@@ -1,4 +1,4 @@
-# MediaIndaba.AFRICA
+# Media Indaba Africa
 
 [Media Indaba Africa](https://mediaindaba.africa/) (formerly Media Party Africa) is the premier media stakeholders' event focussing on the digital future.
 
