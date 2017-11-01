@@ -3,7 +3,7 @@
   role: Executive Director, Audience
   long_bio: Mary is a journalist, internet denizen, storyteller, game designer, writer and news junkie. She works at The Guardian as executive editor, audience.
   img: /img/speakers/mary.jpg
-  img_hover: /img/speakers/mary_glitch.png
+  img_hover: /img/speakers/mary.jpg
   css_class: mary
 
 - name: Yemisi Adegoke
@@ -11,7 +11,7 @@
   role: Multimedia Journalist
   long_bio: Yemisi is a multimedia journalist and documentary film maker based in Lagos.  A graduate of the Arthur L Carter Institute of Journalism at New York University, Yemisi’s writing has been featured in media organizations including The Guardian (UK), The Independent (UK), The Voice, Media Diversified and TRUE AfriK).
   img: /img/speakers/yemisi.jpg
-  img_hover: /img/speakers/yemisi_glitch.png
+  img_hover: /img/speakers/yemisi.jpg
   css_class: yemisi
 
 - name: Sarah Murphy
@@ -19,7 +19,7 @@
   role: Producer/Europe Editor
   long_bio: Sarah is a producer/Europe editor, managing and producing AJ+'s commissioned content from Europe and sub-Saharan Africa. She has also worked as a senior programming officer at The Balkan Institute.
   img: /img/speakers/sarah.jpg
-  img_hover: /img/speakers/sarah_glitch.jpg
+  img_hover: /img/speakers/sarah.jpg
   css_class: sarah
 
 - name: Yusuf Omar
@@ -27,7 +27,7 @@
   role: Co Founder
   long_bio: Yusuf Omar is a multi-award winning journalist and co-founder of Hashtag Our Stories, a TEDx speaker, former CNN Senior Social Media Reporter on Snapchat and former Mobile Editor at the Hindustan Times in India. He has been a foreign correspondent with just his phone since 2010 and covered the Syrian civil war.
   img: /img/speakers/yusuf.jpg
-  img_hover: /img/speakers/yusuf_glitch.jpg
+  img_hover: /img/speakers/yusuf.jpg
   css_class: yusuf
 
 - name: Nic Dawes
@@ -35,7 +35,7 @@
   role: Deputy Executive Editor for Media
   long_bio: Nic is Deputy Executive Director for Media at Human Rights Watch. He was previously Chief Content Officer at India’s Hindustan Times, and Editor-in-Chief at South Africa’s leading political and investigative newspaper, the Mail & Guardian. He is the recipient of Sikuvile, Mondi, Taco Kuiper and National Press Club awards.
   img: /img/speakers/nic.jpg
-  img_hover: /img/speakers/nic_glitch.jpg
+  img_hover: /img/speakers/nic.jpg
   css_class: nic
 
 - name: Lily Kuo
@@ -43,7 +43,7 @@
   role: Reporter
   long_bio: Lily covers East Africa and China in Africa from Nairobi, and previously reported for Quartz from Hong Kong. She has covered general news for Reuters in New York and the Los Angeles Times in Beijing. She is an alumnus of the London School of Economics and Peking University, and holds degrees in English and Spanish from the University of North Carolina at Chapel Hill.
   img: /img/speakers/lily.jpg
-  img_hover: /img/speakers/lily_glitch.png
+  img_hover: /img/speakers/lily.jpg
   css_class: lily
 
 - name: Ravi Bajpai
@@ -51,7 +51,7 @@
   role: Knight Fellow
   long_bio: Ravi Bajpai is an alumnus of the Konrad Adenauer Asian Center for Journalism at Ateneo de Manila University, Philippines, and the Indian Institute of Mass Communication in Delhi, India. He has taught reporting at the Express Institute of Media Studies, and been a programme lead for the post-graduate course in convergent journalism at the AJK Mass Communication Centre at the Jamia Millia Islamia university in Delhi.
   img: /img/speakers/ravi.jpg
-  img_hover: /img/speakers/ravi_glitch.jpg
+  img_hover: /img/speakers/ravi.jpg
   css_class: ravi
 
 - name: Anubha Bhonsle
@@ -59,7 +59,7 @@
   role: Executive Editor
   long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
   img: /img/speakers/anubha.jpg
-  img_hover: /img/speakers/anubha_glitch.jpg
+  img_hover: /img/speakers/anubha.jpg
   css_class: anubha
 
 - name: Vanessa Clarke
@@ -67,7 +67,7 @@
   role: Journalist
   long_bio: Vanessa has contributed to local and international online publications including - TechCrunch, Memeburn, Ventureburn, African Business Review, Bizcommunity.com and Afrinnovator. She is currently a freelance journalist writing about technology in Africa, a copywriter and the co-founder of Mobiflock.
   img: /img/speakers/vanessa.jpg
-  img_hover: /img/speakers/vanessa_glitch.png
+  img_hover: /img/speakers/vanessa.jpg
   css_class: vanessa
 
 - name: Ferial Haffajee
@@ -75,7 +75,7 @@
   role: Editor-in-Chief
   long_bio: Ferial Haffajee is Editor-in-Chief at African Network of Centers for Investigative Reporting (ANCIR) and Editor-at-Large at the Huffington Post SA. Previously, she was Editor-in-Chief at City Press and the Mail&Guardian, both leading investigative titles in South Africa. Ferial is Chairperson of the South African National Editor's Forum and sits on the boards of the International Women’s Media Foundation, the World Editors Forum, the International Press Institute and the Inter Press Service.
   img: /img/speakers/ferial.jpg
-  img_hover: /img/speakers/ferial_glitch.png
+  img_hover: /img/speakers/ferial.jpg
   css_class: ferial
 
 - name: Meera K
@@ -83,7 +83,7 @@
   role: Co-founder
   long_bio: Meera co-founded Citizen Matters, an award winning media recognised as a pioneer of community journalism in Bangalore. She is a Founder Trustee at Oorvani Foundation, a non-profit trust for a free and independent media. Meera also consults on technology for urban local governance.
   img: /img/speakers/meera.jpg
-  img_hover: /img/speakers/meera_glitch.png
+  img_hover: /img/speakers/meera.jpg
   css_class: meera
 
 - name: David Lemayian
@@ -91,7 +91,7 @@
   role: Tech Lead
   long_bio: David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
   img: /img/speakers/david.jpg
-  img_hover: /img/speakers/david_glitch.png
+  img_hover: /img/speakers/david.jpg
   css_class: david
 
 - name: Ritvvij Parrikh
@@ -99,7 +99,7 @@
   role: Knight Fellow
   long_bio: Rittvij studied engineering at Mumbai University and then worked in the telecom-software sector for many years in India, Israel and the United States. Rittvij also founded TracksGiving and Pykih, which has worked with top media brands and NGOs, including The Hindu, Huffington Post India, First Post, India Spend, UNDP India, Oxfam India, Visually, europeana.eu, Datawrapper and others.
   img: /img/speakers/ritvvij.jpg
-  img_hover: /img/speakers/ritvvij_glitch.png
+  img_hover: /img/speakers/ritvvij.jpg
   css_class: ritvvij
 
 - name: Shaheryar Popalzai
@@ -107,7 +107,7 @@
   role: Knight Fellow
   long_bio: Shaheryar Popalzai is a digital news strategist based in Karachi, Pakistan. He is a co-founder of Hacks/Hackers Pakistan and previously served as a special projects manager at The Express Tribune. He regularly conducts workshops and lectures on digital and data-driven journalism.
   img: /img/speakers/popalzai.jpg
-  img_hover: /img/speakers/popalzai_glitch.png
+  img_hover: /img/speakers/popalzai.jpg
   css_class: popalzai
 
 - name: Richard Poplak
@@ -115,7 +115,7 @@
   role: Senior Correspondent
   long_bio: Richard is an award-winning author, journalist and graphic novelist, and a senior correspondent at South Africa’s Daily Maverick news site. He has spent the last decade travelling Africa, researching a book that interrogates the idea of a rising Africa.
   img: /img/speakers/richard.jpg
-  img_hover: /img/speakers/richard_glitch.png
+  img_hover: /img/speakers/richard.jpg
   css_class: richard
 
 - name: Bilal Randeree
@@ -123,7 +123,7 @@
   role: Program Manager
   long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
   img: /img/speakers/bilal.jpg
-  img_hover: /img/speakers/bilal_glitch.png
+  img_hover: /img/speakers/bilal.jpg
   css_class: bilal
 
 - name: John Stupart
@@ -131,5 +131,5 @@
   role: Editor
   long_bio: John acquired a Kings College Postgraduate Degree in War Studies, specialising in the field of African Defence. He is the Editor of the African Defence Review.
   img: /img/speakers/john.jpg
-  img_hover: /img/speakers/john_glitch.png
+  img_hover: /img/speakers/john.jpg
   css_class: john
