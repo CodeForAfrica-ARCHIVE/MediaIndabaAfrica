@@ -1,11 +1,3 @@
-- name: Mary Hamilton
-  org: Guardian News & Media
-  role: Executive Director, Audience
-  long_bio: Mary is a journalist, internet denizen, storyteller, game designer, writer and news junkie. She works at The Guardian as executive editor, audience.
-  img: /img/speakers/mary.jpg
-  img_hover: /img/speakers/mary.jpg
-  css_class: mary
-
 - name: Yemisi Adegoke
   org: Guardian / Naija Data Ladies
   role: Multimedia Journalist
@@ -17,7 +9,7 @@
 - name: Sarah Murphy
   org: Al Jazeera's AJ+
   role: Journalist, Producer
-  long_bio: Sarah is a former producer/Europe editor, managing and producing Al Jazeera's AJ+'s commissioned content from Europe and sub-Saharan Africa. She has also worked as a senior programming officer at The Balkan Institute, and in locations like Kosovo, Bosnia, Georgia, South Korea and Washington, D.C.
+  long_bio: Sarah is a former producer/Europe editor for  Al Jazeera's AJ+, managing and producingcommissioned content from Europe and sub-Saharan Africa. She has also worked as a senior programming officer at The Balkan Institute, and in locations like Kosovo, Bosnia, Georgia, South Korea and Washington, D.C.
   img: /img/speakers/sarah.jpg
   img_hover: /img/speakers/sarah.jpg
   css_class: sarah
