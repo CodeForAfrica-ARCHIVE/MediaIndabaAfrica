@@ -20,10 +20,26 @@ h1, h2, h3, h4 {
 }
 
 a {
-  color: $blue;
+  color: $fff;
   font-weight: bold;
   &:hover {
     color: #000;
+  }
+}
+
+.lead {
+  a {
+    color: #fff;
+  }
+}
+.header_lead {
+  a {
+    color: #0000ff;
+  }
+}
+.where-when {
+  a {
+    color: #fff;
   }
 }
 
@@ -45,7 +61,7 @@ img {
       }
     }
   }
-  
+
   .navbar-nav {
     &.navbar-right {
       float: right !important;
@@ -217,7 +233,7 @@ footer {
     h1 {
       font-size: 70px;
     }
-    
+
   }
 }
 

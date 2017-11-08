@@ -1,151 +1,127 @@
-- name: Kainaz Amaria
-  org: Vox
-  role: Storytelling Design Director
-  long_bio: Kainaz Amaria is the Storytelling Design Director at Vox Media's Storytelling Studio. She's a visual storyteller who pushes her team to put the user first and craft experiences that matter. 
-  img: /img/speakers/kainaz.png
-  img_hover: /img/speakers/kainaz_glitch.png
-  css_class: kainaz
+- name: Yemisi Adegoke
+  org: Guardian / Naija Data Ladies
+  role: Multimedia Journalist
+  long_bio: Yemisi is a multimedia journalist and documentary film maker based in Lagos.  A graduate of the Arthur L Carter Institute of Journalism at New York University, Yemisi’s writing has been featured in media organizations including The Guardian (UK), The Independent (UK), The Voice, Media Diversified and TRUE AfriK).
+  img: /img/speakers/yemisi.jpg
+  img_hover: /img/speakers/yemisi.jpg
+  css_class: yemisi
 
-- name: Yinka Adegoke
-  org: Quartz
-  role: Africa Editor
-  long_bio: Yinka Adegoke is Africa editor for Quartz where he oversees and coordinates coverage of the news and ideas in partnership with writers across the continent. He has reported from more than 10 countries across Europe, Africa and the Americas.
-  img: /img/speakers/yinka.png
-  img_hover: /img/speakers/yinka_glitch.png
-  css_class: yinka
+- name: Sarah Murphy
+  org: Al Jazeera's AJ+
+  role: Journalist, Producer
+  long_bio: Sarah is a former producer/Europe editor for  Al Jazeera's AJ+, managing and producingcommissioned content from Europe and sub-Saharan Africa. She has also worked as a senior programming officer at The Balkan Institute, and in locations like Kosovo, Bosnia, Georgia, South Korea and Washington, D.C.
+  img: /img/speakers/sarah.jpg
+  img_hover: /img/speakers/sarah.jpg
+  css_class: sarah
 
-- name: Charlene Beukes
-  org: The Huffington Post, South Africa
-  role: General Manager
-  long_bio: Charlene has been in the media industry in South Africa for more than 20 years with a career spanning newspapers and magazines and digital in various positions in the NASPERS group and Media24. She was recently appointed to head up the Huffington Post South Africa, due to launch on 21 November 2016. She fundamentally believes the combination of journalism and tech can change the world.
-  img: /img/speakers/charlene.jpg
-  img_hover: /img/speakers/charlene_glitch.jpg
-  css_class: charlene
+- name: Yusuf Omar
+  org: Hashtag our Stories
+  role: Co Founder
+  long_bio: Yusuf Omar is a multi-award winning journalist and co-founder of Hashtag Our Stories, a TEDx speaker, former CNN Senior Social Media Reporter on Snapchat and former Mobile Editor at the Hindustan Times in India. He has been a foreign correspondent with just his phone since 2010 and covered the Syrian civil war.
+  img: /img/speakers/yusuf.jpg
+  img_hover: /img/speakers/yusuf.jpg
+  css_class: yusuf
 
-- name: Alastair Reid
-  org: First Draft
-  role: Managing editor
-  long_bio: Alastair Reid is managing editor of First Draft, a coalition of expert organisations providing training, resources and articles on the use of eyewitness media in news coverage. He was previously editor of Journalism.co.uk, Europe’s leading publication on digital innovation in journalism.
-  img: /img/speakers/alastair.jpg
-  img_hover: /img/speakers/alastair_glitch.jpg
-  css_class: alastair
-  
-- name: Latoya Peterson
-  org: Digital Innovation for The Undefeated at ESPN
-  role: Deputy Editor
-  long_bio: Latoya Peterson is the deputy editor of digital innovation for The Undefeated at ESPN. She provides a hip-hop feminist and anti-racist view on pop culture with a special focus on video games, film, television, and music.
-  img: /img/speakers/latoya.png
-  img_hover: /img/speakers/latoya_glitch.jpg
-  css_class: latoya
+- name: Nic Dawes
+  org: Human Rights Watch
+  role: Deputy Executive Editor for Media
+  long_bio: Nic is Deputy Executive Director for Media at Human Rights Watch. He was previously Chief Content Officer at India’s Hindustan Times, and Editor-in-Chief at South Africa’s leading political and investigative newspaper, the Mail & Guardian. He is the recipient of Sikuvile, Mondi, Taco Kuiper and National Press Club awards.
+  img: /img/speakers/nic.jpg
+  img_hover: /img/speakers/nic.jpg
+  css_class: nic
 
-- name: Ben Kreimer
-  org: Buzzfeed Labs
-  role: Fellow
-  long_bio: Ben Kreimer is a journalism technologist and the beta fellow for BuzzFeed’s Open Lab Fellowship. He’s also an adviser with the Drone Journalism Lab and Kenya based African SkyCAM.
-  img: /img/speakers/ben.png
-  img_hover: /img/speakers/ben_glitch.png
-  css_class: ben
+- name: Lily Kuo
+  org: Quartz / Atlas for Africa
+  role: Reporter
+  long_bio: Lily covers East Africa and China in Africa from Nairobi, and previously reported for Quartz from Hong Kong. She has covered general news for Reuters in New York and the Los Angeles Times in Beijing. She is an alumnus of the London School of Economics and Peking University, and holds degrees in English and Spanish from the University of North Carolina at Chapel Hill.
+  img: /img/speakers/lily.jpg
+  img_hover: /img/speakers/lily.jpg
+  css_class: lily
 
-- name: Chika Oduah
-  org: Code for Nigeria
-  role: Journalist
-  long_bio: Chika Oduah is a multimedia journalist and has reported from the United States, Africa and Central America. Focusing on stories of the African global diaspora, Chika’s reporting explores culture, human rights, history, spirituality, development and conflict in Africa and in African communities around the world. She is one of the few journalists reporting on-the-ground from northeastern Nigeria, the heartland of the extremist group, Boko Haram. Her work has been published by The New York Times, The Guardian, CNN, Al Jazeera and other outlets.
-  img: /img/speakers/chika.jpg
-  img_hover: /img/speakers/chika_glitch.jpg
-  css_class: chika
-
-- name: Adi Eyal
-  org: Code for South Africa
-  role: Founder
-  long_bio: Adi Eyal is the founder of Code for South Africa, a civic technology organisation promoting usage of data in order to drive social change, and a Code for Africa Fellow.
-  img: /img/speakers/adi.png
-  img_hover: /img/speakers/adi_glitch.jpg
-  css_class: adi
-
-- name: Catherine Gicheru
-  org: Code for Kenya
-  role: Lead
-  long_bio: Catherine Gicheru is an award-winning print journalist who became the first woman news editor in Kenya. She is the founding editor of the Star and an ICFJ Knight International Journalism Fellow with the Code for Kenya (CfKenya) where she supervises a teams of data journalists and technologists based at news partner organisations and CitizenLabs in Kenya.
-  img: /img/speakers/catherine.png
-  img_hover: /img/speakers/catherine_glitch.png
-  css_class: catherine
-
-- name: Sebastian Mondial
-  org: ZEIT Investigativ
-  role: Data, Forensic & Security Specialist
-  long_bio: Sebastian Mondial works in investigative journalism as a data & forensic specialist and security expert. He works with some of the finest investigative journalists at Die ZEIT in Germany, and also trains people around the globe, analysing their investigative habits and changing these to be more secure. He’s worked with ICIJ, UNICRI, Google, dpa, NDR, ecolot, ip-team and many more. 
-  img: /img/speakers/sebastian.png
-  img_hover: /img/speakers/sebastian_glitch.png
-  css_class: sebastian
-
-- name: Mike Tigas
-  org: Pro Publica
-  role: Hacker-Journalist
-  long_bio: Mike Tigas is a developer, journalist, photographer, civic hacker, and security/privacy tinkerer at ProPublica.
-  img: /img/speakers/mike.png
-  img_hover: /img/speakers/mike_glitch.png
-  css_class: mike
-
-- name: Nasr Ul Hadi
+- name: Ravi Bajpai
   org: ICFJ
-  role: ICFJ Knight Fellow
-  long_bio: Nasr ul Hadi is an ICFJ Knight Fellow and works with media and news-related organizations in India to develop and expand the use of news technologies and improve access to quality information.
-  img: /img/speakers/nasr.png
-  img_hover: /img/speakers/nasr_glitch.png
-  css_class: nasr
+  role: Knight Fellow
+  long_bio: Ravi Bajpai is an alumnus of the Konrad Adenauer Asian Center for Journalism at Ateneo de Manila University, Philippines, and the Indian Institute of Mass Communication in Delhi, India. He has taught reporting at the Express Institute of Media Studies, and been a programme lead for the post-graduate course in convergent journalism at the AJK Mass Communication Centre at the Jamia Millia Islamia university in Delhi.
+  img: /img/speakers/ravi.jpg
+  img_hover: /img/speakers/ravi.jpg
+  css_class: ravi
 
-- name: Andres Snitcofsky
-  org: Cargografias
-  role: Lead & Motion Graphics Designer
-  long_bio: Andres Snitcofsky is a lead project manager and motion graphics designer at Cargografias, and experiments with data visualization.
-  img: /img/speakers/andres.png
-  img_hover: /img/speakers/andres_glitch.png
-  css_class: andres
+- name: Anubha Bhonsle
+  org: CNN News18, ICFJ Knight Fellow
+  role: Executive Editor
+  long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
+  img: /img/speakers/anubha.jpg
+  img_hover: /img/speakers/anubha.jpg
+  css_class: anubha
 
-- name: Douglas Arellanes
-  org: Sourcefabric
-  role: Co-founder and Director of Innovation
-  long_bio: Douglas Arellanes is the co-founder and director of innovation at Sourcefabric, Europe’s largest developer of open source tools for news media.
-  img: /img/speakers/douglas.png
-  img_hover: /img/speakers/douglas_glitch.png
-  css_class: douglas
+- name: Vanessa Clarke
+  org: Ananse Media
+  role: Journalist
+  long_bio: Vanessa has contributed to local and international online publications including - TechCrunch, Memeburn, Ventureburn, African Business Review, Bizcommunity.com and Afrinnovator. She is currently a freelance journalist writing about technology in Africa, a copywriter and the co-founder of Mobiflock.
+  img: /img/speakers/vanessa.jpg
+  img_hover: /img/speakers/vanessa.jpg
+  css_class: vanessa
 
-- name: George Conard
-  org: Google
-  role: Jigsaw Product Manager
-  long_bio: George Conard is a product manager for Jigsaw at Google with expertise in product development, cloud-based and mobile services, and technology applications for the developing world.
-  img: /img/speakers/george.png
-  img_hover: /img/speakers/george_glitch.png
-  css_class: george
+- name: Ferial Haffajee
+  org: ANCIR / HuffPoSA
+  role: Editor-in-Chief
+  long_bio: Ferial Haffajee is Editor-in-Chief at African Network of Centers for Investigative Reporting (ANCIR) and Editor-at-Large at the Huffington Post SA. Previously, she was Editor-in-Chief at City Press and the Mail&Guardian, both leading investigative titles in South Africa. Ferial is Chairperson of the South African National Editor's Forum and sits on the boards of the International Women’s Media Foundation, the World Editors Forum, the International Press Institute and the Inter Press Service.
+  img: /img/speakers/ferial.jpg
+  img_hover: /img/speakers/ferial.jpg
+  css_class: ferial
 
-- name: Jacopo Ottaviani
-  org: Code for Africa
-  role: Fellow
-  long_bio: Jacopo Ottaviani is a Code for Africa Fellow, and an award-winning journalist specialising in data driven investigation and cross-media storytelling.
-  img: /img/speakers/jacopo.png
-  img_hover: /img/speakers/jacopo_glitch.png
-  css_class: jacopo
+- name: Meera K
+  org: Citizen Matters  / ICFJ Knight Fellow
+  role: Co-founder
+  long_bio: Meera co-founded Citizen Matters, an award winning media recognised as a pioneer of community journalism in Bangalore. She is a Founder Trustee at Oorvani Foundation, a non-profit trust for a free and independent media. Meera also consults on technology for urban local governance.
+  img: /img/speakers/meera.jpg
+  img_hover: /img/speakers/meera.jpg
+  css_class: meera
 
-# - name: Nic Dawes
-#   org: Media at Human Rights Watch
-#   role: Director
-#   long_bio: Nic Dawes heads Media at Human Rights Watch, a global non-profit known for its accurate fact-finding, impartial reporting, and targeted advocacy. He was previously Chief Content Officer at India's Hindustan Times and Editor-in-Chief at South Africa's Mail & Guardian.  
-#   img: /img/speakers/nic.png
-#   img_hover: /img/speakers/nic_glitch.png
-#   css_class: nic
+- name: David Lemayian
+  org: Code for Africa, ICFJ Knight Fellow
+  role: Tech Lead
+  long_bio: David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
+  img: /img/speakers/david.jpg
+  img_hover: /img/speakers/david.jpg
+  css_class: david
 
-- name: Nuno Vargas
-  org: '-'
-  role: Digital Strategist and Mentor
-  long_bio: Nuno Vargas is a product designer, digital strategist and design thinking evangelist with an infectious enthusiasm for powerful digital storytelling and the use of data. He’s been working in media production and design in Europe, Latin America, Morocco, Nigeria, Ghana, Thailand and the USA, developing media related and corporate projects and facilitating training on Design Thinking, Mobile and Data Driven applications.
-  img: /img/speakers/nuno.png
-  img_hover: /img/speakers/nuno_glitch.png
-  css_class: nuno
+- name: Ritvvij Parrikh
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Rittvij studied engineering at Mumbai University and then worked in the telecom-software sector for many years in India, Israel and the United States. Rittvij also founded TracksGiving and Pykih, which has worked with top media brands and NGOs, including The Hindu, Huffington Post India, First Post, India Spend, UNDP India, Oxfam India, Visually, europeana.eu, Datawrapper and others.
+  img: /img/speakers/ritvvij.jpg
+  img_hover: /img/speakers/ritvvij.jpg
+  css_class: ritvvij
 
-- name: Omar Mohammed
-  org: Code for Tanzania
-  role: Lead
-  long_bio: Omar Mohammed is an ICFJ Knight Fellow with Code for Africa in Tanzania. Prior to becoming a fellow he was East Africa reporter with Quartz covering politics, business, technology and sports. He tweets @shurufu. 
-  img: /img/speakers/omar.png
-  img_hover: /img/speakers/omar_glitch.png
-  css_class: omar
+- name: Shaheryar Popalzai
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Shaheryar Popalzai is a digital news strategist based in Karachi, Pakistan. He is a co-founder of Hacks/Hackers Pakistan and previously served as a special projects manager at The Express Tribune. He regularly conducts workshops and lectures on digital and data-driven journalism.
+  img: /img/speakers/popalzai.jpg
+  img_hover: /img/speakers/popalzai.jpg
+  css_class: popalzai
+
+- name: Richard Poplak
+  org: Daily Maverick, et al.
+  role: Senior Correspondent
+  long_bio: Richard is an award-winning author, journalist and graphic novelist, and a senior correspondent at South Africa’s Daily Maverick news site. He has spent the last decade travelling Africa, researching a book that interrogates the idea of a rising Africa.
+  img: /img/speakers/richard.jpg
+  img_hover: /img/speakers/richard.jpg
+  css_class: richard
+
+- name: Bilal Randeree
+  org: SA Media Innovation Program
+  role: Program Manager
+  long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
+  img: /img/speakers/bilal.jpg
+  img_hover: /img/speakers/bilal.jpg
+  css_class: bilal
+
+- name: John Stupart
+  org: African Defence Review
+  role: Editor
+  long_bio: John acquired a Kings College Postgraduate Degree in War Studies, specialising in the field of African Defence. He is the Editor of the African Defence Review.
+  img: /img/speakers/john.jpg
+  img_hover: /img/speakers/john.jpg
+  css_class: john
