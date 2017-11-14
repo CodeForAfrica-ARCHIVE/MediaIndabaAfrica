@@ -190,6 +190,14 @@
   img_hover: /img/speakers/khuram hussain.jpg
   css_class: khuram
 
+- name: Lesedi Bewlay
+  org: The Engine Room
+  role: Program Cordinator
+  long_bio: Lesedi has a background in computer science and NGOs and has a strong interest in social change. He coordinates the Light Touch Support Program at The Engine Room. Lesedi holds a Bachelor of Applied Science from Indiana University Bloomington.
+  img: /img/speakers/lesedi bewlay pic_opt.jpg
+  img_hover: /img/speakers/lesedi bewlay pic_opt.jpg
+  css_class: lesedi
+
 - name: Lily Kuo
   org: Quartz / Atlas for Africa
   role: Reporter
