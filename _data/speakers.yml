@@ -1,19 +1,3 @@
-- name: Alex Jakana
-  org: Bill & Melinda Gates Foundation
-  role: Program Officer, Strategic Partnerships
-  long_bio: Alex is the Program Officer Strategic Partnerships at Bill & Melinda Gates Foundation, where he maintains strategic media partnerships. Prior to that he was the Executive Producer Editorial Partnerships, Africa at the BBC.
-  img: /img/speakers/Jakana_opt(1).jpg
-  img_hover: /img/speakers/Jakana_opt(1).jpg
-  css_class: jakana
-
-- name: Anubha Bhonsle
-  org: CNN News18, ICFJ Knight Fellow
-  role: Executive Editor
-  long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
-  img: /img/speakers/anubha.jpg
-  img_hover: /img/speakers/anubha.jpg
-  css_class: anubha
-
 - name: Blaise Aboh
   org: Code for Africa
   role: Innovation Fellow
@@ -30,13 +14,69 @@
   img_hover: /img/speakers/Bhukopla Adebayo_opt.jpg
   css_class: bukola
 
-- name: Bilal Randeree
-  org: SA Media Innovation Program
-  role: Program Manager
-  long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
-  img: /img/speakers/bilal.jpg
-  img_hover: /img/speakers/bilal.jpg
-  css_class: bilal
+- name: Yemisi Adegoke
+  org: Guardian / Naija Data Ladies
+  role: Multimedia Journalist
+  long_bio: Yemisi is a multimedia journalist and documentary film maker based in Lagos.  A graduate of the Arthur L Carter Institute of Journalism at New York University, Yemisi’s writing has been featured in media organizations including The Guardian (UK), The Independent (UK), The Voice, Media Diversified and TRUE AfriK).
+  img: /img/speakers/yemisi.jpg
+  img_hover: /img/speakers/yemisi.jpg
+  css_class: yemisi
+
+- name: Okyerebea Ampofo-Anti
+  org: Webber Wentzel Bowens
+  role: Journalist
+  long_bio: Okyerebea specialises in commercial litigation, data protection, protection of confidential business information,print, electronic and broadcast media law and several other related areas. She holds a Master of Laws (LLM) from the University of Pretoria.
+  img: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
+  img_hover: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
+  css_class: okyerebea
+
+- name: Justin Arenstein
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Code for Africa CEO Justin Arenstein is a veteran South African investigative journalist and media entrepreneur. He is recognised internationally as an expert in data-driven journalism and related new media technologies. He co-founded the pioneering independent news wire agency African Eye News Service (AENS).
+  img: /img/speakers/JustinWebsite_0_opt.jpg
+  img_hover: /img/speakers/JustinWebsite_0_opt.jpg
+  css_class: justin
+
+- name: Ravi Bajpai
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Ravi Bajpai is an alumnus of the Konrad Adenauer Asian Center for Journalism at Ateneo de Manila University, Philippines, and the Indian Institute of Mass Communication in Delhi, India. He has taught reporting at the Express Institute of Media Studies, and been a programme lead for the post-graduate course in convergent journalism at the AJK Mass Communication Centre at the Jamia Millia Islamia university in Delhi.
+  img: /img/speakers/ravi.jpg
+  img_hover: /img/speakers/ravi.jpg
+  css_class: ravi
+
+- name: Peter Bale
+  org: Wikitribune
+  role: Editor
+  long_bio: Peter is the first editor of Wikitribune. He previously served as director of the Center for Public Integrity between 2014 and 2016, after a long career in journalism.
+  img: /img/speakers/Peter Bale_opt.jpg
+  img_hover: /img/speakers/Peter Bale_opt.jpg
+  css_class: peter
+
+- name: Lesedi Bewlay
+  org: The Engine Room
+  role: Program Cordinator
+  long_bio: Lesedi has a background in computer science and NGOs and has a strong interest in social change. He coordinates the Light Touch Support Program at The Engine Room. Lesedi holds a Bachelor of Applied Science from Indiana University Bloomington.
+  img: /img/speakers/lesedi bewlay pic_opt.png
+  img_hover: /img/speakers/lesedi bewlay pic_opt.png
+  css_class: lesedi
+
+- name: Anubha Bhonsle
+  org: CNN News18, ICFJ Knight Fellow
+  role: Executive Editor
+  long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
+  img: /img/speakers/anubha.jpg
+  img_hover: /img/speakers/anubha.jpg
+  css_class: anubha
+
+- name: Ralph Borland
+  org: African Robots
+  role: Artist, Designer and Researcher
+  long_bio: Ralph is an artist, designer and researcher. He holds a multi-disciplinary PhD from the School of Engineering  at Trinity College, Dublin. His African Robots project aims to link art and design to social intervention.
+  img: /img/speakers/ralph_borland_opt.jpg
+  img_hover: /img/speakers/ralph_borland_opt.jpg
+  css_class: ralph
 
 - name: Catherine Gicheru
   org: ICFJ
@@ -45,6 +85,22 @@
   img: /img/speakers/Catherine-Gicheru-(4).jpg
   img_hover: /img/speakers/Catherine-Gicheru-(4).jpg
   css_class: catherine
+
+- name: Alex Jakana
+  org: Bill & Melinda Gates Foundation
+  role: Program Officer, Strategic Partnerships
+  long_bio: Alex is the Program Officer Strategic Partnerships at Bill & Melinda Gates Foundation, where he maintains strategic media partnerships. Prior to that he was the Executive Producer Editorial Partnerships, Africa at the BBC.
+  img: /img/speakers/Jakana_opt(1).jpg
+  img_hover: /img/speakers/Jakana_opt(1).jpg
+  css_class: jakana
+
+- name: Bilal Randeree
+  org: SA Media Innovation Program
+  role: Program Manager
+  long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
+  img: /img/speakers/bilal.jpg
+  img_hover: /img/speakers/bilal.jpg
+  css_class: bilal
 
 - name: Chris Onyando
   org: MicroDrone Africa
@@ -174,13 +230,7 @@
   img_hover: /img/speakers/Johnny-Miller.jpg
   css_class: johnny
 
-- name: Justin Arenstein
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Code for Africa CEO Justin Arenstein is a veteran South African investigative journalist and media entrepreneur. He is recognised internationally as an expert in data-driven journalism and related new media technologies. He co-founded the pioneering independent news wire agency African Eye News Service (AENS).
-  img: /img/speakers/JustinWebsite_0_opt.jpg
-  img_hover: /img/speakers/JustinWebsite_0_opt.jpg
-  css_class: justin
+
 
 - name: Khuram Hussain
   org: Omidyar
@@ -190,13 +240,7 @@
   img_hover: /img/speakers/khuram hussain.jpg
   css_class: khuram
 
-- name: Lesedi Bewlay
-  org: The Engine Room
-  role: Program Cordinator
-  long_bio: Lesedi has a background in computer science and NGOs and has a strong interest in social change. He coordinates the Light Touch Support Program at The Engine Room. Lesedi holds a Bachelor of Applied Science from Indiana University Bloomington.
-  img: /img/speakers/lesedi bewlay pic_opt.png
-  img_hover: /img/speakers/lesedi bewlay pic_opt.png
-  css_class: lesedi
+
 
 - name: Lily Kuo
   org: Quartz / Atlas for Africa
@@ -270,14 +314,6 @@
   img_hover: /img/speakers/Odanga-Madung-300x191_opt.jpg
   css_class: odanga
 
-- name: Okyerebea Ampofo-Anti
-  org: Webber Wentzel Bowens
-  role: Journalist
-  long_bio: Okyerebea specialises in commercial litigation, data protection, protection of confidential business information,print, electronic and broadcast media law and several other related areas. She holds a Master of Laws (LLM) from the University of Pretoria.
-  img: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
-  img_hover: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
-  css_class: okyerebea
-
 - name: Omar Mohamed
   org: ICFJ
   role: Knight Fellow
@@ -286,14 +322,6 @@
   img_hover: /img/speakers/Omar Mohammedbio.jpg
   css_class: omar
 
-- name: Peter Bale
-  org: Wikitribune
-  role: Editor
-  long_bio: Peter is the first editor of Wikitribune. He previously served as director of the Center for Public Integrity between 2014 and 2016, after a long career in journalism.
-  img: /img/speakers/Peter Bale_opt.jpg
-  img_hover: /img/speakers/Peter Bale_opt.jpg
-  css_class: peter
-
 - name: Qiu Jiaqiu
   org: Real Image Media
   role: Founder
@@ -301,22 +329,6 @@
   img: /img/speakers/Jiaqui-Qui.jpg
   img_hover: /img/speakers/Jiaqui-Qui.jpg
   css_class: jiaqui
-
-- name: Ralph Borland
-  org: African Robots
-  role: Artist, Designer and Researcher
-  long_bio: Ralph is an artist, designer and researcher. He holds a multi-disciplinary PhD from the School of Engineering  at Trinity College, Dublin. His African Robots project aims to link art and design to social intervention.
-  img: /img/speakers/ralph_borland_opt.jpg
-  img_hover: /img/speakers/ralph_borland_opt.jpg
-  css_class: ralph
-
-- name: Ravi Bajpai
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Ravi Bajpai is an alumnus of the Konrad Adenauer Asian Center for Journalism at Ateneo de Manila University, Philippines, and the Indian Institute of Mass Communication in Delhi, India. He has taught reporting at the Express Institute of Media Studies, and been a programme lead for the post-graduate course in convergent journalism at the AJK Mass Communication Centre at the Jamia Millia Islamia university in Delhi.
-  img: /img/speakers/ravi.jpg
-  img_hover: /img/speakers/ravi.jpg
-  css_class: ravi
 
 - name: Richard Poplak
   org: Daily Maverick, et al.
@@ -389,11 +401,3 @@
   img: /img/speakers/Sylvia-Wairimu-Macharia.jpg
   img_hover: /img/speakers/Sylvia-Wairimu-Macharia.jpg
   css_class: sylvia
-
-- name: Yemisi Adegoke
-  org: Guardian / Naija Data Ladies
-  role: Multimedia Journalist
-  long_bio: Yemisi is a multimedia journalist and documentary film maker based in Lagos.  A graduate of the Arthur L Carter Institute of Journalism at New York University, Yemisi’s writing has been featured in media organizations including The Guardian (UK), The Independent (UK), The Voice, Media Diversified and TRUE AfriK).
-  img: /img/speakers/yemisi.jpg
-  img_hover: /img/speakers/yemisi.jpg
-  css_class: yemisi
