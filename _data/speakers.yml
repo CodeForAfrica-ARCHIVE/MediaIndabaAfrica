@@ -86,6 +86,78 @@
   img_hover: /img/speakers/Catherine-Gicheru-(4).jpg
   css_class: catherine
 
+- name: Lynsey Chutel
+  org: Quartz
+  role: Reporter
+  long_bio: Lynsey covers southern African stories for Quartz. She previously worked as a correspondent for the Associated Press, covering breaking news and features in southern Africa. She was a producer at eNCA, where she reported from several countries in Africa, including Zimbabwe, Ethiopia, Madagascar and Rwanda.
+  img: /img/speakers/Lynsey.jpg
+  img_hover: /img/speakers/Lynsey.jpg
+  css_class: lynsey
+
+- name: Vanessa Clarke
+  org: Ananse Media
+  role: Journalist
+  long_bio: Vanessa has contributed to local and international online publications including - TechCrunch, Memeburn, Ventureburn, African Business Review, Bizcommunity.com and Afrinnovator. She is currently a freelance journalist writing about technology in Africa, a copywriter and the co-founder of Mobiflock.
+  img: /img/speakers/vanessa.jpg
+  img_hover: /img/speakers/vanessa.jpg
+  css_class: vanessa
+
+- name: Susan Comrie
+  org: amaBhungane
+  role: Investigative Journalist
+  long_bio: Susan is an investigative journalist at amaBhungane Centre for Investigative Journalism. She has won numerous awards, including a CNN African Journalism Award, a Taco Kuiper Award (Runner-up), a Sanlam Financial Journalism Award and the National Press Club Journalist of the Year Award. In 2015, she was shortlisted for the Global Shining Light Award.
+  img: /img/speakers/Susan-Comrie.jpg
+  img_hover: /img/speakers/Susan-Comrie.jpg
+  css_class: susan
+
+- name: Nuzulak Dausen
+  org: Mwananchi Communications Ltd
+  role: Investigative Journalist
+  long_bio: Nuzulack Dausen is an award-winning investigative journalist with Mwananchi Communications Ltd (MCL) in Tanzania. He specialises in business, economics, technology and data reporting. He holds a B.A in Political Science and Public Administration from the University of Dar es Salaam.
+  img: /img/speakers/NuzulackPHOTO_opt.jpg
+  img_hover: /img/speakers/NuzulackPHOTO_opt.jpg
+  css_class: nuzulack
+
+- name: Nic Dawes
+  org: Human Rights Watch
+  role: Deputy Executive Editor for Media
+  long_bio: Nic is Deputy Executive Director for Media at Human Rights Watch. He was previously Chief Content Officer at India’s Hindustan Times, and Editor-in-Chief at South Africa’s leading political and investigative newspaper, the Mail & Guardian. He is the recipient of Sikuvile, Mondi, Taco Kuiper and National Press Club awards.
+  img: /img/speakers/nic.jpg
+  img_hover: /img/speakers/nic.jpg
+  css_class: nic
+
+- name: Jerri Eddings
+  org: ICFJ
+  role: Senior Program Director
+  long_bio: Jerri supervises and implements global programs and serves as editor of the Knight Fellowships thought leadership blog. She has extensive experience in the United States and Africa as a reporter, editor, television producer and director of media capacity building programs.
+  img: /img/speakers/Jerri-Eddings.jpg
+  img_hover: /img/speakers/Jerri-Eddings.jpg
+  css_class: jerri
+
+- name: Nasr ul Hadi
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Nasr ​has​ ​worked​ ​in​ ​various​ ​roles​ ​across​ ​print, broadcast​ ​and​ ​digital​ ​news/media, with ​The​ ​Times​ ​of​ ​India,​ ​Hindustan Times,​ ​New​ ​Delhi​ ​Television,​ ​Zee​ ​Media,​ ​The​ ​Associated​ ​Press,​ ​Columbia​ ​University,​ ​Jamia's MCRC,​ ​Raghav​ ​Bahl,​ ​among​ ​others. He studied ​engineering​ ​at ​Aligarh​ ​University​ ​and​ ​digital​ ​media​ ​at​ ​Columbia​ ​University.
+  img: /img/speakers/Nasr Ul Hadi_opt.jpg
+  img_hover: /img/speakers/Nasr Ul Hadi_opt.jpg
+  css_class: nasr
+
+- name: Ferial Haffajee
+  org: ANCIR / HuffPoSA
+  role: Editor-in-Chief
+  long_bio: Ferial Haffajee is an editor and investigative journalist. She is editor at ANCIR and editor-at-large at the Huffington Post SA. Previously she was editor-in-chief of City Press and the Mail & Guardian, both leading investigative titles in South Africa where the teams she worked with published many award-winning investigations.
+  img: /img/speakers/ferial.jpg
+  img_hover: /img/speakers/ferial.jpg
+  css_class: ferial
+
+- name: Khuram Hussain
+  org: Omidyar
+  role: Business Consultant
+  long_bio: Khuram received an MBA from the Haas School of Business at the University of California, Berkeley. He has consulted for companies such as Walmart and McKesson and interned with Technoserve in Guinea and Endeavor in Columbia.He currently helps structure and manage Omidyar Network’s investments.
+  img: /img/speakers/khuram hussain.jpg
+  img_hover: /img/speakers/khuram hussain.jpg
+  css_class: khuram
+
 - name: Alex Jakana
   org: Bill & Melinda Gates Foundation
   role: Program Officer, Strategic Partnerships
@@ -94,13 +166,101 @@
   img_hover: /img/speakers/Jakana_opt(1).jpg
   css_class: jakana
 
-- name: Bilal Randeree
-  org: SA Media Innovation Program
-  role: Program Manager
-  long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
-  img: /img/speakers/bilal.jpg
-  img_hover: /img/speakers/bilal.jpg
-  css_class: bilal
+- name: Thanduxolo Jika
+  org: Freelance
+  role: Investigative Journalist
+  long_bio: Thanduxolo is an award winning journalist in both hard news and investigations. His work ranges from hard-hitting coverage of the country’s  politics to detailed narratives about the injustices facing ordinary South Africans.
+  img: /img/speakers/Jika.jpg
+  img_hover: /img/speakers/Jika.jpg
+  css_class: jika
+
+- name: Meera K
+  org: Citizen Matters  / ICFJ Knight Fellow
+  role: Co-founder
+  long_bio: Meera co-founded Citizen Matters, an award winning media recognised as a pioneer of community journalism in Bangalore. She is a Founder Trustee at Oorvani Foundation, a non-profit trust for a free and independent media. Meera also consults on technology for urban local governance.
+  img: /img/speakers/meera.jpg
+  img_hover: /img/speakers/meera.jpg
+  css_class: meera
+
+- name: Lily Kuo
+  org: Quartz / Atlas for Africa
+  role: Reporter
+  long_bio: Lily covers East Africa and China in Africa from Nairobi, and previously reported for Quartz from Hong Kong. She has covered general news for Reuters in New York and the Los Angeles Times in Beijing. She is an alumnus of the London School of Economics and Peking University, and holds degrees in English and Spanish from the University of North Carolina at Chapel Hill.
+  img: /img/speakers/lily.jpg
+  img_hover: /img/speakers/lily.jpg
+  css_class: lily
+
+- name: Jennifer 8 Lee
+  org: Plympton
+  role: Co-founder
+  long_bio: Jennifer 8. Lee is co-founder and CEO of Plympton, a San Francisco-based literary studio that innovates in digital publishing. A former New York Times reporter, Jenny is also the author of the New York Times-bestselling book, The Fortune Cookie Chronicles and the founder of Emojicon (she co-authored the proposal for a hijab emoji) and Misinfocon.
+  img: /img/speakers/jennifer_lee_250_p33ly7.jpg
+  img_hover: /img/speakers/jennifer_lee_250_p33ly7.jpg
+  css_class: jennifer
+
+- name: David Lemayian
+  org: Code for Africa, ICFJ Knight Fellow
+  role: Tech Lead
+  long_bio: David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
+  img: /img/speakers/david.jpg
+  img_hover: /img/speakers/david.jpg
+  css_class: david
+
+- name: Odanga Madung
+  org: Odipo Dev
+  role: Data Science Lead
+  long_bio: Odanga is working to make sense of the world around us through the eyes of data by helping organisations build better relationships with their target audiences across all media platforms with a new social intelligence dashboard, Dive Analytics.
+  img: /img/speakers/Odanga-Madung-300x191_opt.jpg
+  img_hover: /img/speakers/Odanga-Madung-300x191_opt.jpg
+  css_class: odanga
+
+- name: Fidel Mbhele
+  org: Private Practice
+  role: Public Policy Consultant
+  long_bio: Fidel is a Public Policy and Development Strategy Professional with specialisation in ICTs and Innovation. He is a former Director of ICT Policy and Stretegy for the Western Cape, and attended UCL for his MSc Development Administration and Planning Urban Development Policy.
+  img: /img/speakers/Fidel Mbhele_opt(1).jpg
+  img_hover: /img/speakers/Fidel Mbhele_opt(1).jpg
+  css_class: fidel
+
+- name: Johnnie Miller
+  org: africanDRONE
+  role: Founder
+  long_bio: Johnnie is an acclaimed photographer and filmmaker, and the founder of africanDRONE. He has won several prestigious international awards for his project “Unequal Scenes”, an exploration of inequality by drone.
+  img: /img/speakers/Johnny-Miller.jpg
+  img_hover: /img/speakers/Johnny-Miller.jpg
+  css_class: johnny
+
+- name: Omar Mohamed
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: ICFJ Knight Fellow Omar Mohammed leads Code for Tanzania. He is an experienced data journalist and digital strategist. ​In 2015, he helped launch Quartz Africa and worked as the platform's East African reporter.
+  img: /img/speakers/Omar Mohammedbio.jpg
+  img_hover: /img/speakers/Omar Mohammedbio.jpg
+  css_class: omar
+
+- name: Sarah Murphy
+  org: MicroDrone Africa
+  role: Journalist
+  long_bio: Until September, Sarah was Europe and sub-Saharan Africa editor for original video content at Al Jazeera's AJ+. She also was part of the small team that launched AJ+. She will soon be Multimedia Projects Manager for Médecins Sans Frontières in Brussels. She's worked as a journalist and NGO professional in the Republic of Georgia, Kosovo and Bosnia. Her academic background is in philosophy and comparative politics.
+  img: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
+  img_hover: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
+  css_class: sarah
+
+- name: Wairimu (Macharia) Muturu
+  org: Afrobarometer
+  role: Content Manager
+  long_bio: A Nuttic Fellow, a Young Diplomats Fellow and a Data4Change alumnus, Wairimu oversees management of all digital properties including content for the Afrobarometer network across Africa.
+  img: /img/speakers/Sylvia-Wairimu-Macharia.jpg
+  img_hover: /img/speakers/Sylvia-Wairimu-Macharia.jpg
+  css_class: sylvia
+
+- name: Nas Daily
+  org: Freelance
+  role: Video Blogger
+  long_bio: Nas (Nuseir Yassin) makes daily one-minute videos about himself and others. His website currently lists over 700 videos, and he is followed by more than two million people on Facebook.
+  img: /img/speakers/Nasdaily_opt.jpg
+  img_hover: /img/speakers/Nasdaily_opt.jpg
+  css_class: nas
 
 - name: Chris Onyando
   org: MicroDrone Africa
@@ -118,6 +278,62 @@
   img_hover: /img/speakers/Chris-Orwa.jpg
   css_class: orwa
 
+- name: Jacopo Ottaviani
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Jacopo is a journalist and computer scientist. He spearheads Code for Africa’s data journalism story production and engagement strategies in Kenya, Nigeria, South Africa and Tanzania.
+  img: /img/speakers/Jacopo.jpg
+  img_hover: /img/speakers/Jacopo.jpg
+  css_class: jacopo
+
+- name: Nkechi Okwuone
+  org: Code for Nigeria
+  role: Country Lead
+  long_bio: Nkechi is the country lead for Code for Nigeria, a Mandela Washington Fellow (Arizona State University) and Global Shaper of the World Economic Forum. She holds an M.Sc in Information Systems Management from the University of Salford.
+  img: /img/speakers/nkechi_opt.png
+  img_hover: /img/speakers/nkechi_opt.png
+  css_class: nkechi
+
+- name: Ritvvij Parrikh
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Rittvij studied engineering at Mumbai University and then worked in the telecom-software sector for many years in India, Israel and the United States. Rittvij also founded TracksGiving and Pykih, which has worked with top media brands and NGOs, including The Hindu, Huffington Post India, First Post, India Spend, UNDP India, Oxfam India, Visually, europeana.eu, Datawrapper and others.
+  img: /img/speakers/ritvvij.jpg
+  img_hover: /img/speakers/ritvvij.jpg
+  css_class: ritvvij
+
+- name: Shaheryar Popalzai
+  org: ICFJ
+  role: Knight Fellow
+  long_bio: Shaheryar Popalzai is a digital news strategist based in Karachi, Pakistan. He is a co-founder of Hacks/Hackers Pakistan and previously served as a special projects manager at The Express Tribune. He regularly conducts workshops and lectures on digital and data-driven journalism.
+  img: /img/speakers/popalzai.jpg
+  img_hover: /img/speakers/popalzai.jpg
+  css_class: popalzai
+
+- name: Richard Poplak
+  org: Daily Maverick, et al.
+  role: Senior Correspondent
+  long_bio: Richard is an award-winning author, journalist and graphic novelist, and a senior correspondent at South Africa’s Daily Maverick news site. He has spent the last decade travelling Africa, researching a book that interrogates the idea of a rising Africa.
+  img: /img/speakers/richard.jpg
+  img_hover: /img/speakers/richard.jpg
+  css_class: richard
+
+- name: Qiu Jiaqiu
+  org: Real Image Media
+  role: Founder
+  long_bio: Qiu Jiaqiu is founder of Real Image Media in China, and a former director of Caixin Video and Xinhua News journalist.
+  img: /img/speakers/Jiaqui-Qui.jpg
+  img_hover: /img/speakers/Jiaqui-Qui.jpg
+  css_class: jiaqui
+
+- name: Bilal Randeree
+  org: SA Media Innovation Program
+  role: Program Manager
+  long_bio: Bilal is a former Social Media Manager and Online Editor at Al Jazeera English. He has also worked at KPMG as Manager in Transaction Services, making full use of his Chartered Accountant (CPA equivalent) qualification. Bilal holds a post-graduate diploma in Journalism and Media Studies from Rhodes University and is currently the Program Manager at SAMIP.
+  img: /img/speakers/bilal.jpg
+  img_hover: /img/speakers/bilal.jpg
+  css_class: bilal
+
 - name: Chris Roper
   org: ICFJ
   role: Knight Fellow
@@ -126,13 +342,21 @@
   img_hover: /img/speakers/Chris-roper.jpg
   css_class: roper
 
-- name: David Lemayian
-  org: Code for Africa, ICFJ Knight Fellow
-  role: Tech Lead
-  long_bio: David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
-  img: /img/speakers/david.jpg
-  img_hover: /img/speakers/david.jpg
-  css_class: david
+- name: Thandi Smith
+  org: Media Monitoring Africa
+  role: Policy & Quality Programme Lead
+  long_bio: Thandi Smith heads the Policy & Quality Programme for Media Monitoring Africa. She holds a Masters degree in Media Studies from the University of the Witswatersrand.
+  img: /img/speakers/Thandi-Smith_Retouched_Square-300x300_opt.jpg
+  img_hover: /img/speakers/Thandi-Smith_Retouched_Square-300x300_opt.jpg
+  css_class: thandi
+
+- name: John Stupart
+  org: African Defence Review
+  role: Editor
+  long_bio: John acquired a Kings College Postgraduate Degree in War Studies, specialising in the field of African Defence. He is the Editor of the African Defence Review.
+  img: /img/speakers/john.jpg
+  img_hover: /img/speakers/john.jpg
+  css_class: john
 
 - name: Dexter Tangocci
   org: Integrated Aerial Systems (IAS)
@@ -150,62 +374,6 @@
   img_hover: /img/speakers/Fabiola-Torres-Lopez.jpg
   css_class: fabiola
 
-- name: Ferial Haffajee
-  org: ANCIR / HuffPoSA
-  role: Editor-in-Chief
-  long_bio: Ferial Haffajee is an editor and investigative journalist. She is editor at ANCIR and editor-at-large at the Huffington Post SA. Previously she was editor-in-chief of City Press and the Mail & Guardian, both leading investigative titles in South Africa where the teams she worked with published many award-winning investigations.
-  img: /img/speakers/ferial.jpg
-  img_hover: /img/speakers/ferial.jpg
-  css_class: ferial
-
-- name: Fidel Mbhele
-  org: Private Practice
-  role: Public Policy Consultant
-  long_bio: Fidel is a Public Policy and Development Strategy Professional with specialisation in ICTs and Innovation. He is a former Director of ICT Policy and Stretegy for the Western Cape, and attended UCL for his MSc Development Administration and Planning Urban Development Policy.
-  img: /img/speakers/Fidel Mbhele_opt(1).jpg
-  img_hover: /img/speakers/Fidel Mbhele_opt(1).jpg
-  css_class: fidel
-
-- name: Hazel Wei
-  org: New Media Centre, UDN / Cofacts
-  role: Journalist
-  long_bio: Hazel is a journalist at New Media Center, UDN. She joined Cofacts, a fact-checking chatbot initiative, where she works on decoding exposing online misinformation and organises editors' meetups.
-  img: /img/speakers/Hazel-Wei.jpg
-  img_hover: /img/speakers/Hazel-Wei.jpg
-  css_class: hazel
-
-- name: H. R. Venkatesh
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: H.R. is the founding editor at The Quint, director of communications in India at Change.org, and senior anchor at CNN-IBN. He is currently helping top Indian newsrooms improve their coverage of critical health and development issues.
-  img: /img/speakers/HR Venkatesh_opt.jpg
-  img_hover: /img/speakers/HR Venkatesh_opt.jpg
-  css_class: venkatesh
-
-- name: Jacopo Ottaviani
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Jacopo is a journalist and computer scientist. He spearheads Code for Africa’s data journalism story production and engagement strategies in Kenya, Nigeria, South Africa and Tanzania.
-  img: /img/speakers/Jacopo.jpg
-  img_hover: /img/speakers/Jacopo.jpg
-  css_class: jacopo
-
-- name: Jennifer 8 Lee
-  org: Plympton
-  role: Co-founder
-  long_bio: Jennifer 8. Lee is co-founder and CEO of Plympton, a San Francisco-based literary studio that innovates in digital publishing. A former New York Times reporter, Jenny is also the author of the New York Times-bestselling book, The Fortune Cookie Chronicles and the founder of Emojicon (she co-authored the proposal for a hijab emoji) and Misinfocon.
-  img: /img/speakers/jennifer_lee_250_p33ly7.jpg
-  img_hover: /img/speakers/jennifer_lee_250_p33ly7.jpg
-  css_class: jennifer
-
-- name: Jerri Eddings
-  org: ICFJ
-  role: Senior Program Director
-  long_bio: Jerri supervises and implements global programs and serves as editor of the Knight Fellowships thought leadership blog. She has extensive experience in the United States and Africa as a reporter, editor, television producer and director of media capacity building programs.
-  img: /img/speakers/Jerri-Eddings.jpg
-  img_hover: /img/speakers/Jerri-Eddings.jpg
-  css_class: jerri
-
 - name: Joan van Dyk
   org: Siza Map / M&G Bhekisisa
   role: Health Reporter
@@ -214,190 +382,18 @@
   img_hover: /img/speakers/Joan-van-Dyk.jpg
   css_class: joan
 
-- name: John Stupart
-  org: African Defence Review
-  role: Editor
-  long_bio: John acquired a Kings College Postgraduate Degree in War Studies, specialising in the field of African Defence. He is the Editor of the African Defence Review.
-  img: /img/speakers/john.jpg
-  img_hover: /img/speakers/john.jpg
-  css_class: john
-
-- name: Johnnie Miller
-  org: africanDRONE
-  role: Founder
-  long_bio: Johnnie is an acclaimed photographer and filmmaker, and the founder of africanDRONE. He has won several prestigious international awards for his project “Unequal Scenes”, an exploration of inequality by drone.
-  img: /img/speakers/Johnny-Miller.jpg
-  img_hover: /img/speakers/Johnny-Miller.jpg
-  css_class: johnny
-
-
-
-- name: Khuram Hussain
-  org: Omidyar
-  role: Business Consultant
-  long_bio: Khuram received an MBA from the Haas School of Business at the University of California, Berkeley. He has consulted for companies such as Walmart and McKesson and interned with Technoserve in Guinea and Endeavor in Columbia.He currently helps structure and manage Omidyar Network’s investments.
-  img: /img/speakers/khuram hussain.jpg
-  img_hover: /img/speakers/khuram hussain.jpg
-  css_class: khuram
-
-
-
-- name: Lily Kuo
-  org: Quartz / Atlas for Africa
-  role: Reporter
-  long_bio: Lily covers East Africa and China in Africa from Nairobi, and previously reported for Quartz from Hong Kong. She has covered general news for Reuters in New York and the Los Angeles Times in Beijing. She is an alumnus of the London School of Economics and Peking University, and holds degrees in English and Spanish from the University of North Carolina at Chapel Hill.
-  img: /img/speakers/lily.jpg
-  img_hover: /img/speakers/lily.jpg
-  css_class: lily
-
-- name: Lynsey Chutel
-  org: Quartz
-  role: Reporter
-  long_bio: Lynsey covers southern African stories for Quartz. She previously worked as a correspondent for the Associated Press, covering breaking news and features in southern Africa. She was a producer at eNCA, where she reported from several countries in Africa, including Zimbabwe, Ethiopia, Madagascar and Rwanda.
-  img: /img/speakers/Lynsey.jpg
-  img_hover: /img/speakers/Lynsey.jpg
-  css_class: lynsey
-
-- name: Meera K
-  org: Citizen Matters  / ICFJ Knight Fellow
-  role: Co-founder
-  long_bio: Meera co-founded Citizen Matters, an award winning media recognised as a pioneer of community journalism in Bangalore. She is a Founder Trustee at Oorvani Foundation, a non-profit trust for a free and independent media. Meera also consults on technology for urban local governance.
-  img: /img/speakers/meera.jpg
-  img_hover: /img/speakers/meera.jpg
-  css_class: meera
-
-- name: Nas Daily
-  org: Freelance
-  role: Video Blogger
-  long_bio: Nas (Nuseir Yassin) makes daily one-minute videos about himself and others. His website currently lists over 700 videos, and he is followed by more than two million people on Facebook.
-  img: /img/speakers/Nasdaily_opt.jpg
-  img_hover: /img/speakers/Nasdaily_opt.jpg
-  css_class: nas
-
-- name: Nasr ul Hadi
+- name: H. R. Venkatesh
   org: ICFJ
   role: Knight Fellow
-  long_bio: Nasr ​has​ ​worked​ ​in​ ​various​ ​roles​ ​across​ ​print, broadcast​ ​and​ ​digital​ ​news/media, with ​The​ ​Times​ ​of​ ​India,​ ​Hindustan Times,​ ​New​ ​Delhi​ ​Television,​ ​Zee​ ​Media,​ ​The​ ​Associated​ ​Press,​ ​Columbia​ ​University,​ ​Jamia's MCRC,​ ​Raghav​ ​Bahl,​ ​among​ ​others. He studied ​engineering​ ​at ​Aligarh​ ​University​ ​and​ ​digital​ ​media​ ​at​ ​Columbia​ ​University.
-  img: /img/speakers/Nasr Ul Hadi_opt.jpg
-  img_hover: /img/speakers/Nasr Ul Hadi_opt.jpg
-  css_class: nasr
-
-- name: Nic Dawes
-  org: Human Rights Watch
-  role: Deputy Executive Editor for Media
-  long_bio: Nic is Deputy Executive Director for Media at Human Rights Watch. He was previously Chief Content Officer at India’s Hindustan Times, and Editor-in-Chief at South Africa’s leading political and investigative newspaper, the Mail & Guardian. He is the recipient of Sikuvile, Mondi, Taco Kuiper and National Press Club awards.
-  img: /img/speakers/nic.jpg
-  img_hover: /img/speakers/nic.jpg
-  css_class: nic
-
-- name: Nkechi Okwuone
-  org: Code for Nigeria
-  role: Country Lead
-  long_bio: Nkechi is the country lead for Code for Nigeria, a Mandela Washington Fellow (Arizona State University) and Global Shaper of the World Economic Forum. She holds an M.Sc in Information Systems Management from the University of Salford.
-  img: /img/speakers/nkechi_opt.png
-  img_hover: /img/speakers/nkechi_opt.png
-  css_class: nkechi
-
-- name: Nuzulak Dausen
-  org: Mwananchi Communications Ltd
-  role: Investigative Journalist
-  long_bio: Nuzulack Dausen is an award-winning investigative journalist with Mwananchi Communications Ltd (MCL) in Tanzania. He specialises in business, economics, technology and data reporting. He holds a B.A in Political Science and Public Administration from the University of Dar es Salaam.
-  img: /img/speakers/NuzulackPHOTO_opt.jpg
-  img_hover: /img/speakers/NuzulackPHOTO_opt.jpg
-  css_class: nuzulack
-
-- name: Odanga Madung
-  org: Odipo Dev
-  role: Data Science Lead
-  long_bio: Odanga is working to make sense of the world around us through the eyes of data by helping organisations build better relationships with their target audiences across all media platforms with a new social intelligence dashboard, Dive Analytics.
-  img: /img/speakers/Odanga-Madung-300x191_opt.jpg
-  img_hover: /img/speakers/Odanga-Madung-300x191_opt.jpg
-  css_class: odanga
-
-- name: Omar Mohamed
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: ICFJ Knight Fellow Omar Mohammed leads Code for Tanzania. He is an experienced data journalist and digital strategist. ​In 2015, he helped launch Quartz Africa and worked as the platform's East African reporter.
-  img: /img/speakers/Omar Mohammedbio.jpg
-  img_hover: /img/speakers/Omar Mohammedbio.jpg
-  css_class: omar
-
-- name: Qiu Jiaqiu
-  org: Real Image Media
-  role: Founder
-  long_bio: Qiu Jiaqiu is founder of Real Image Media in China, and a former director of Caixin Video and Xinhua News journalist.
-  img: /img/speakers/Jiaqui-Qui.jpg
-  img_hover: /img/speakers/Jiaqui-Qui.jpg
-  css_class: jiaqui
-
-- name: Richard Poplak
-  org: Daily Maverick, et al.
-  role: Senior Correspondent
-  long_bio: Richard is an award-winning author, journalist and graphic novelist, and a senior correspondent at South Africa’s Daily Maverick news site. He has spent the last decade travelling Africa, researching a book that interrogates the idea of a rising Africa.
-  img: /img/speakers/richard.jpg
-  img_hover: /img/speakers/richard.jpg
-  css_class: richard
-
-- name: Ritvvij Parrikh
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Rittvij studied engineering at Mumbai University and then worked in the telecom-software sector for many years in India, Israel and the United States. Rittvij also founded TracksGiving and Pykih, which has worked with top media brands and NGOs, including The Hindu, Huffington Post India, First Post, India Spend, UNDP India, Oxfam India, Visually, europeana.eu, Datawrapper and others.
-  img: /img/speakers/ritvvij.jpg
-  img_hover: /img/speakers/ritvvij.jpg
-  css_class: ritvvij
-
-- name: Sarah Murphy
-  org: MicroDrone Africa
+  long_bio: H.R. is the founding editor at The Quint, director of communications in India at Change.org, and senior anchor at CNN-IBN. He is currently helping top Indian newsrooms improve their coverage of critical health and development issues.
+  img: /img/speakers/HR Venkatesh_opt.jpg
+  img_hover: /img/speakers/HR Venkatesh_opt.jpg
+  css_class: venkatesh
+    
+- name: Hazel Wei
+  org: New Media Centre, UDN / Cofacts
   role: Journalist
-  long_bio: Until September, Sarah was Europe and sub-Saharan Africa editor for original video content at Al Jazeera's AJ+. She also was part of the small team that launched AJ+. She will soon be Multimedia Projects Manager for Médecins Sans Frontières in Brussels. She's worked as a journalist and NGO professional in the Republic of Georgia, Kosovo and Bosnia. Her academic background is in philosophy and comparative politics.
-  img: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
-  img_hover: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
-  css_class: sarah
-
-- name: Shaheryar Popalzai
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Shaheryar Popalzai is a digital news strategist based in Karachi, Pakistan. He is a co-founder of Hacks/Hackers Pakistan and previously served as a special projects manager at The Express Tribune. He regularly conducts workshops and lectures on digital and data-driven journalism.
-  img: /img/speakers/popalzai.jpg
-  img_hover: /img/speakers/popalzai.jpg
-  css_class: popalzai
-
-- name: Susan Comrie
-  org: amaBhungane
-  role: Investigative Journalist
-  long_bio: Susan is an investigative journalist at amaBhungane Centre for Investigative Journalism. She has won numerous awards, including a CNN African Journalism Award, a Taco Kuiper Award (Runner-up), a Sanlam Financial Journalism Award and the National Press Club Journalist of the Year Award. In 2015, she was shortlisted for the Global Shining Light Award.
-  img: /img/speakers/Susan-Comrie.jpg
-  img_hover: /img/speakers/Susan-Comrie.jpg
-  css_class: susan
-
-- name: Thandi Smith
-  org: Media Monitoring Africa
-  role: Policy & Quality Programme Lead
-  long_bio: Thandi Smith heads the Policy & Quality Programme for Media Monitoring Africa. She holds a Masters degree in Media Studies from the University of the Witswatersrand.
-  img: /img/speakers/Thandi-Smith_Retouched_Square-300x300_opt.jpg
-  img_hover: /img/speakers/Thandi-Smith_Retouched_Square-300x300_opt.jpg
-  css_class: thandi
-
-- name: Thanduxolo Jika
-  org: Freelance
-  role: Investigative Journalist
-  long_bio: Thanduxolo is an award winning journalist in both hard news and investigations. His work ranges from hard-hitting coverage of the country’s  politics to detailed narratives about the injustices facing ordinary South Africans.
-  img: /img/speakers/Jika.jpg
-  img_hover: /img/speakers/Jika.jpg
-  css_class: jika
-
-- name: Vanessa Clarke
-  org: Ananse Media
-  role: Journalist
-  long_bio: Vanessa has contributed to local and international online publications including - TechCrunch, Memeburn, Ventureburn, African Business Review, Bizcommunity.com and Afrinnovator. She is currently a freelance journalist writing about technology in Africa, a copywriter and the co-founder of Mobiflock.
-  img: /img/speakers/vanessa.jpg
-  img_hover: /img/speakers/vanessa.jpg
-  css_class: vanessa
-
-- name: Wairimu (Macharia) Muturu
-  org: Afrobarometer
-  role: Content Manager
-  long_bio: A Nuttic Fellow, a Young Diplomats Fellow and a Data4Change alumnus, Wairimu oversees management of all digital properties including content for the Afrobarometer network across Africa.
-  img: /img/speakers/Sylvia-Wairimu-Macharia.jpg
-  img_hover: /img/speakers/Sylvia-Wairimu-Macharia.jpg
-  css_class: sylvia
+  long_bio: Hazel is a journalist at New Media Center, UDN. She joined Cofacts, a fact-checking chatbot initiative, where she works on decoding exposing online misinformation and organises editors' meetups.
+  img: /img/speakers/Hazel-Wei.jpg
+  img_hover: /img/speakers/Hazel-Wei.jpg
+  css_class: hazel
