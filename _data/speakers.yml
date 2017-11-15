@@ -175,8 +175,8 @@
   css_class: jakana
 
 - name: Thanduxolo Jika
-  org:
-  role: Investigative Journalist
+  org: Investigative
+  role: Journalist
   long_bio: Thanduxolo is an award winning journalist in both hard news and investigations. His work ranges from hard-hitting coverage of the country’s  politics to detailed narratives about the injustices facing ordinary South Africans.
   img: /img/speakers/Jika.jpg
   img_hover: /img/speakers/Jika.jpg
