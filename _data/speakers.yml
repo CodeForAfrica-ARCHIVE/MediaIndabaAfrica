@@ -56,19 +56,11 @@
 
 - name: Lesedi Bewlay
   org: The Engine Room
-  role: Program Cordinator
+  role: Programme Coordinator
   long_bio: Lesedi has a background in computer science and NGOs and has a strong interest in social change. He coordinates the Light Touch Support Program at The Engine Room. Lesedi holds a Bachelor of Applied Science from Indiana University Bloomington.
   img: /img/speakers/lesedi bewlay pic_opt.png
   img_hover: /img/speakers/lesedi bewlay pic_opt.png
   css_class: lesedi
-
-- name: Anubha Bhonsle
-  org: CNN News18
-  role: Executive Editor
-  long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
-  img: /img/speakers/anubha.jpg
-  img_hover: /img/speakers/anubha.jpg
-  css_class: anubha
 
 - name: Ralph Borland
   org: African Robots
@@ -94,7 +86,7 @@
   img_hover: /img/speakers/Lynsey.jpg
   css_class: lynsey
 
-- name: Vanessa Clarke
+- name: Vanessa Clark
   org: Ananse Media
   role: Journalist
   long_bio: Vanessa has contributed to local and international online publications including - TechCrunch, Memeburn, Ventureburn, African Business Review, Bizcommunity.com and Afrinnovator. She is currently a freelance journalist writing about technology in Africa, a copywriter and the co-founder of Mobiflock.
@@ -134,6 +126,14 @@
   img_hover: /img/speakers/Jerri-Eddings.jpg
   css_class: jerri
 
+- name: Nicki Gules
+  org: City Press
+  role: Assistant Editor
+  long_bio: Nicki is the Assistant Editor: News and Investigations at City Press. She is a former News Editor at The Times and The Sunday Times.
+  img: /img/speakers/Nicki Gules_opt.jpg
+  img_hover: /img/speakers/Nicki Gules_opt.jpg
+  css_class: nicki
+
 - name: Nasr ul Hadi
   org: ICFJ
   role: Knight Fellow
@@ -160,7 +160,7 @@
 
 - name: Alex Jakana
   org: Bill & Melinda Gates Foundation
-  role: Program Officer
+  role: Programme Officer
   long_bio: Alex is the Program Officer Strategic Partnerships at Bill & Melinda Gates Foundation, where he maintains strategic media partnerships. Prior to that he was the Executive Producer Editorial Partnerships, Africa at the BBC.
   img: /img/speakers/Jakana_opt(1).jpg
   img_hover: /img/speakers/Jakana_opt(1).jpg
@@ -172,7 +172,7 @@
   long_bio: Nonso is The Engine Room’s regional lead in sub-saharan Africa. Before joining The Engine Room, he worked with Caerus Associates, Herock Nigeria and recently Reboot on ICT4D.
   img: /img/speakers/Nonso Jideofor_opt.jpg
   img_hover: /img/speakers/Nonso Jideofor_opt.jpg
-  css_class: jakana
+  css_class: nonso
 
 - name: Thanduxolo Jika
   org: Investigative
@@ -269,6 +269,14 @@
   img: /img/speakers/Nasdaily_opt.jpg
   img_hover: /img/speakers/Nasdaily_opt.jpg
   css_class: nas
+
+- name: Ben Nimmo
+  org: Atlantic Council
+  role: Analyst
+  long_bio: Ben Nimmo analyses disinformation, fake news, bots and online influence campaigns for the Digital Forensic Research Lab at the Atlantic Council think-tank, based in Washington, DC. He is a former travel writer and wire journalist, and has worked as a press officer at NATO, covering relations with Russia and Ukraine.
+  img: /img/speakers/Ben Nimmo_opt.jpg
+  img_hover: /img/speakers/Ben Nimmo_opt.jpg
+  css_class: ben
 
 - name: Chris Onyando
   org: MicroDrone Africa
