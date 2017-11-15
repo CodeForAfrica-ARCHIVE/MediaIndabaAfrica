@@ -160,14 +160,22 @@
 
 - name: Alex Jakana
   org: Bill & Melinda Gates Foundation
-  role: Program Officer, Strategic Partnerships
+  role: Program Officer
   long_bio: Alex is the Program Officer Strategic Partnerships at Bill & Melinda Gates Foundation, where he maintains strategic media partnerships. Prior to that he was the Executive Producer Editorial Partnerships, Africa at the BBC.
   img: /img/speakers/Jakana_opt(1).jpg
   img_hover: /img/speakers/Jakana_opt(1).jpg
   css_class: jakana
 
+- name: Nonso Jideofor
+  org: The Engine Room
+  role: Regional Lead
+  long_bio: Nonso is The Engine Room’s regional lead in sub-saharan Africa. Before joining The Engine Room, he worked with Caerus Associates, Herock Nigeria and recently Reboot on ICT4D.
+  img: /img/speakers/Nonso Jideofor_opt.jpg
+  img_hover: /img/speakers/Nonso Jideofor_opt.jpg
+  css_class: jakana
+
 - name: Thanduxolo Jika
-  org: Freelance
+  org:
   role: Investigative Journalist
   long_bio: Thanduxolo is an award winning journalist in both hard news and investigations. His work ranges from hard-hitting coverage of the country’s  politics to detailed narratives about the injustices facing ordinary South Africans.
   img: /img/speakers/Jika.jpg
@@ -175,7 +183,7 @@
   css_class: jika
 
 - name: Meera K
-  org: Citizen Matters  / ICFJ Knight Fellow
+  org: Citizen Matters
   role: Co-founder
   long_bio: Meera co-founded Citizen Matters, an award winning media recognised as a pioneer of community journalism in Bangalore. She is a Founder Trustee at Oorvani Foundation, a non-profit trust for a free and independent media. Meera also consults on technology for urban local governance.
   img: /img/speakers/meera.jpg
@@ -199,9 +207,9 @@
   css_class: jennifer
 
 - name: David Lemayian
-  org: Code for Africa, ICFJ Knight Fellow
-  role: Tech Lead
-  long_bio: David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
+  org: Code for Africa
+  role: Lead Technologist
+  long_bio: Add: ICFJ Knight Fellow David leads the development of journalistic tools and software for Code for Africa. He has facilitated bootcamps for the World Bank Group in Moldova, Malawi, Nepal and Tanzania. David is a former winner of the Google Android Developer Challenge for Sub-Saharan Africa and was a Global Editors Networks Data Journalism Awards Finalist.
   img: /img/speakers/david.jpg
   img_hover: /img/speakers/david.jpg
   css_class: david
@@ -215,7 +223,7 @@
   css_class: odanga
 
 - name: Fidel Mbhele
-  org: Private Practice
+  org:
   role: Public Policy Consultant
   long_bio: Fidel is a Public Policy and Development Strategy Professional with specialisation in ICTs and Innovation. He is a former Director of ICT Policy and Stretegy for the Western Cape, and attended UCL for his MSc Development Administration and Planning Urban Development Policy.
   img: /img/speakers/Fidel Mbhele_opt(1).jpg
@@ -239,8 +247,8 @@
   css_class: omar
 
 - name: Sarah Murphy
-  org: MicroDrone Africa
-  role: Journalist
+  org: Al Jazeera's AJ+
+  role: Editor
   long_bio: Until September, Sarah was Europe and sub-Saharan Africa editor for original video content at Al Jazeera's AJ+. She also was part of the small team that launched AJ+. She will soon be Multimedia Projects Manager for Médecins Sans Frontières in Brussels. She's worked as a journalist and NGO professional in the Republic of Georgia, Kosovo and Bosnia. Her academic background is in philosophy and comparative politics.
   img: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
   img_hover: /img/speakers/Sarah Murphy - Media Indaba headshot.jpg
@@ -255,8 +263,8 @@
   css_class: sylvia
 
 - name: Nas Daily
-  org: Freelance
-  role: Video Blogger
+  org: Nas Daily
+  role: Vlogger
   long_bio: Nas (Nuseir Yassin) makes daily one-minute videos about himself and others. His website currently lists over 700 videos, and he is followed by more than two million people on Facebook.
   img: /img/speakers/Nasdaily_opt.jpg
   img_hover: /img/speakers/Nasdaily_opt.jpg
@@ -335,8 +343,8 @@
   css_class: bilal
 
 - name: Chris Roper
-  org: ICFJ
-  role: Knight Fellow
+  org: Code for Africa
+  role: Deputy Director
   long_bio: Chris Roper is deputy director of Code for Africa, a Knight Fellow for the ICFJ, a director of the African Network of Centers for Investigative Reporting, and most recently held the position of editor-in-chief of the Mail & Guardian. He was founding portal manager of Tiscali World Online, portal manager for MWEB, and Editor-in-Chief at 24.com.
   img: /img/speakers/Chris-roper.jpg
   img_hover: /img/speakers/Chris-roper.jpg
@@ -375,7 +383,7 @@
   css_class: fabiola
 
 - name: Joan van Dyk
-  org: Siza Map / M&G Bhekisisa
+  org: M&G Bhekisisa
   role: Health Reporter
   long_bio: Joan graduated with an honours degree in journalism from Stellenbosch University. She works for Bhekisisa as a health reporter, and aspires to reveal issues that are relevant to the well-being of its populations.
   img: /img/speakers/Joan-van-Dyk.jpg
