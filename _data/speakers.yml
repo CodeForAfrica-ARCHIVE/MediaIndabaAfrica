@@ -24,15 +24,15 @@
 
 - name: Okyerebea Ampofo-Anti
   org: Webber Wentzel Bowens
-  role: Journalist
+  role: Lawyer
   long_bio: Okyerebea specialises in commercial litigation, data protection, protection of confidential business information,print, electronic and broadcast media law and several other related areas. She holds a Master of Laws (LLM) from the University of Pretoria.
   img: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
   img_hover: /img/speakers/Okyerebea Ampofo-Anti_opt.jpg
   css_class: okyerebea
 
 - name: Justin Arenstein
-  org: ICFJ
-  role: Knight Fellow
+  org: Code For Africa
+  role: Director
   long_bio: Code for Africa CEO Justin Arenstein is a veteran South African investigative journalist and media entrepreneur. He is recognised internationally as an expert in data-driven journalism and related new media technologies. He co-founded the pioneering independent news wire agency African Eye News Service (AENS).
   img: /img/speakers/JustinWebsite_0_opt.jpg
   img_hover: /img/speakers/JustinWebsite_0_opt.jpg
@@ -63,7 +63,7 @@
   css_class: lesedi
 
 - name: Anubha Bhonsle
-  org: CNN News18, ICFJ Knight Fellow
+  org: CNN News18
   role: Executive Editor
   long_bio: An Executive Editor at CNN-News18 and Editor of the Citizen Journalist Show, Anubha has won numerous awards, including the 2012 Ramnath Goenka Award for Excellence in Journalism, 2013 Chameli Devi Award for Outstanding Woman Media Person in India, Asian TV Award for Best Cross Platform Content (2010/2011/2012).
   img: /img/speakers/anubha.jpg
@@ -111,7 +111,7 @@
   css_class: susan
 
 - name: Nuzulak Dausen
-  org: Mwananchi Communications Ltd
+  org: Mwananchi Communications
   role: Investigative Journalist
   long_bio: Nuzulack Dausen is an award-winning investigative journalist with Mwananchi Communications Ltd (MCL) in Tanzania. He specialises in business, economics, technology and data reporting. He holds a B.A in Political Science and Public Administration from the University of Dar es Salaam.
   img: /img/speakers/NuzulackPHOTO_opt.jpg
@@ -144,7 +144,7 @@
 
 - name: Ferial Haffajee
   org: ANCIR / HuffPoSA
-  role: Editor-in-Chief
+  role: Editor-at-Large
   long_bio: Ferial Haffajee is an editor and investigative journalist. She is editor at ANCIR and editor-at-large at the Huffington Post SA. Previously she was editor-in-chief of City Press and the Mail & Guardian, both leading investigative titles in South Africa where the teams she worked with published many award-winning investigations.
   img: /img/speakers/ferial.jpg
   img_hover: /img/speakers/ferial.jpg
@@ -389,7 +389,7 @@
   img: /img/speakers/HR Venkatesh_opt.jpg
   img_hover: /img/speakers/HR Venkatesh_opt.jpg
   css_class: venkatesh
-    
+
 - name: Hazel Wei
   org: New Media Centre, UDN / Cofacts
   role: Journalist
