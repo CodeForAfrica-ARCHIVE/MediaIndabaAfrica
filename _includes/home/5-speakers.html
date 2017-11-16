@@ -5,22 +5,127 @@
     </p>
     <h1 class="text-blue">Featured Speakers</h1>
     <div class="row mugshots">
-      {% for speaker in site.data.speakers %}
         <div class="col-sm-4">
-          <div class="mugshot {{ speaker.css_class }}"></div>
+          <div>
+              <img src="/img/speakers/Fabiola-Torres-Lopez.jpg" />
+          </div>
           <div class="bio">
-            <p class="lead name">{{ speaker.name }}</p>
+            <p class="lead name">Fabiola Torres Lopez</p>
             <p>{</p>
-            <p class="org">{{ speaker.org }};</p>
+            <p class="org">OjoPublico</p>
             <p>></p>
-            <p>{{ speaker.role }};</p>
+            <p>Co-founder</p>
             <p>}</p>
           </div>
         </div>
-        {% if forloop.index == 9 %}
-            {% break %}
-        {% endif %}
-      {% endfor %}
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/Nasdaily_opt.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Nas Daily</p>
+            <p>{</p>
+            <p class="org">Nas Daily</p>
+            <p>></p>
+            <p>Vlogger</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/Ben Nimmo_opt.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Ben Nimmo</p>
+            <p>{</p>
+            <p class="org">Atlantic Council</p>
+            <p>></p>
+            <p>Analyst</p>
+            <p>}</p>
+          </div>
+        </div>
+    </div>
+    <div class="row mugshots">
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/Okyerebea Ampofo-Anti_opt.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Okyerebea Ampofo-Anti</p>
+            <p>{</p>
+            <p class="org">Webber Wentzel Bowens</p>
+            <p>></p>
+            <p>Lawyer</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/lily.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Lily Kuo</p>
+            <p>{</p>
+            <p class="org">Quartz / Atlas for Africa</p>
+            <p>></p>
+            <p>Reporter</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/ferial.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Ferial Haffajee</p>
+            <p>{</p>
+            <p class="org">ANCIR / HuffPoSA</p>
+            <p>></p>
+            <p>Editor-at-Large</p>
+            <p>}</p>
+          </div>
+        </div>
+    </div>
+    <div class="row mugshots">
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/nic.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Nic Dawes</p>
+            <p>{</p>
+            <p class="org">Human Rights Watch</p>
+            <p>></p>
+            <p>Deputy Executive Editor for Media</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/jennifer_lee_250_p33ly7.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Jennifer 8 Lee</p>
+            <p>{</p>
+            <p class="org">Plympton</p>
+            <p>></p>
+            <p>Co-founder</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div>
+              <img src="/img/speakers/yemisi.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Yemisi Adegoke</p>
+            <p>{</p>
+            <p class="org">Guardian / Naija Data Ladies</p>
+            <p>></p>
+            <p>Multimedia Journalist</p>
+            <p>}</p>
+          </div>
+        </div>
     </div>
     <p class="text-center">
       <a href="/speakers" class="btn btn-primary">Find out about all Speakers</a>
