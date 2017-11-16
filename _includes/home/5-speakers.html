@@ -5,22 +5,45 @@
     </p>
     <h1 class="text-blue">Featured Speakers</h1>
     <div class="row mugshots">
-      {% for speaker in site.data.speakers %}
         <div class="col-sm-4">
-          <div class="mugshot {{ speaker.css_class }}"></div>
+          <div class="mugshot">
+              <img src="/img/speakers/Fabiola-Torres-Lopez.jpg" />
+          </div>
           <div class="bio">
-            <p class="lead name">{{ speaker.name }}</p>
+            <p class="lead name">Fabiola Torres Lopez</p>
             <p>{</p>
-            <p class="org">{{ speaker.org }};</p>
+            <p class="org">OjoPublico</p>
             <p>></p>
-            <p>{{ speaker.role }};</p>
+            <p>Co-founder</p>
             <p>}</p>
           </div>
         </div>
-        {% if forloop.index == 9 %}
-            {% break %}
-        {% endif %}
-      {% endfor %}
+        <div class="col-sm-4">
+          <div class="mugshot">
+              <img src="/img/speakers/Fabiola-Torres-Lopez.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Fabiola Torres Lopez</p>
+            <p>{</p>
+            <p class="org">OjoPublico</p>
+            <p>></p>
+            <p>Co-founder</p>
+            <p>}</p>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="mugshot">
+              <img src="/img/speakers/Fabiola-Torres-Lopez.jpg" />
+          </div>
+          <div class="bio">
+            <p class="lead name">Fabiola Torres Lopez</p>
+            <p>{</p>
+            <p class="org">OjoPublico</p>
+            <p>></p>
+            <p>Co-founder</p>
+            <p>}</p>
+          </div>
+        </div>
     </div>
     <p class="text-center">
       <a href="/speakers" class="btn btn-primary">Find out about all Speakers</a>
