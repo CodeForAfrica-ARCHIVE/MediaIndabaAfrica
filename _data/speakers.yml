@@ -46,14 +46,6 @@
   img_hover: /img/speakers/ravi.jpg
   css_class: ravi
 
-- name: Peter Bale
-  org: Wikitribune
-  role: Editor
-  long_bio: Peter is the first editor of Wikitribune. He previously served as director of the Center for Public Integrity between 2014 and 2016, after a long career in journalism.
-  img: /img/speakers/Peter Bale_opt.jpg
-  img_hover: /img/speakers/Peter Bale_opt.jpg
-  css_class: peter
-
 - name: Lesedi Bewlay
   org: The Engine Room
   role: Programme Coordinator
