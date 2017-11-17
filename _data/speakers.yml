@@ -405,3 +405,11 @@
   img: /img/speakers/Hazel-Wei.jpg
   img_hover: /img/speakers/Hazel-Wei.jpg
   css_class: hazel
+
+- name: Kerry Friend
+  org: Bear Season
+  role: Co-founder
+  long_bio: Background in advertising as a creative. Headed up the Isobar Innovation team, NowLab, for 2 years. Co-founder of Bear Season Project - currently working at Wits University Innovation Precinct managing design sprints, hackathons and recently co-launched the IoT Lab, all under the auspices of Prof Dwolatzky. Now partnered with Adi Eyal, founder of OpenUp, to drive the civic tech programme, Codebridge.
+  img: /img/speakers/Kerry_Friend_opt.jpg
+  img_hover: /img/speakers/Kerry_Friend_opt.jpg
+  css_class: friend
