@@ -413,3 +413,11 @@
   img: /img/speakers/Kerry_Friend_opt.jpg
   img_hover: /img/speakers/Kerry_Friend_opt.jpg
   css_class: friend
+
+- name: Lewis Kaluzi
+  org: African Robots
+  role: Master Wire Artist
+  long_bio: Lewis has been making wire art for most of his life. He has plied his trade across Southern Africa, making work for local and foreign clients. Lewis is part of African Robots, a project introducing electronic and mechanical forms to street wire art.
+  img: /img/speakers/Lewis_Kaluzi_opt.jpg
+  img_hover: /img/speakers/Lewi_Kaluzi_opt.jpg
+  css_class: kaluzi
