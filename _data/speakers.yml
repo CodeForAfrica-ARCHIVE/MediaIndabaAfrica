@@ -46,6 +46,14 @@
   img_hover: /img/speakers/ravi.jpg
   css_class: ravi
 
+- name: Peter Bale
+  org: Wikitribune
+  role: Editor
+  long_bio: Peter is the first editor of Wikitribune. He previously served as director of the Center for Public Integrity between 2014 and 2016, after a long career in journalism.
+  img: /img/speakers/Peter Bale_opt.jpg
+  img_hover: /img/speakers/Peter Bale_opt.jpg
+  css_class: peter
+
 - name: Lesedi Bewlay
   org: The Engine Room
   role: Programme Coordinator
@@ -118,6 +126,14 @@
   img_hover: /img/speakers/Jerri-Eddings.jpg
   css_class: jerri
 
+- name: Kerry Friend
+  org: Bear Season
+  role: Co-founder
+  long_bio: Background in advertising as a creative. Headed up the Isobar Innovation team, NowLab, for 2 years. Co-founder of Bear Season Project - currently working at Wits University Innovation Precinct managing design sprints, hackathons and recently co-launched the IoT Lab, all under the auspices of Prof Dwolatzky. Now partnered with Adi Eyal, founder of OpenUp, to drive the civic tech programme, Codebridge.
+  img: /img/speakers/Kerry_Friend_opt.jpg
+  img_hover: /img/speakers/Kerry_Friend_opt.jpg
+  css_class: friend
+
 - name: Nicki Gules
   org: City Press
   role: Assistant Editor
@@ -174,6 +190,14 @@
   img_hover: /img/speakers/Jika.jpg
   css_class: jika
 
+- name: Lewis Kaluzi
+  org: African Robots
+  role: Master Wire Artist
+  long_bio: Lewis has been making wire art for most of his life. He has plied his trade across Southern Africa, making work for local and foreign clients. Lewis is part of African Robots, a project introducing electronic and mechanical forms to street wire art.
+  img: /img/speakers/Lewis_Kaluzi_opt.jpg
+  img_hover: /img/speakers/Lewi_Kaluzi_opt.jpg
+  css_class: kaluzi
+
 - name: Meera K
   org: Citizen Matters
   role: Co-founder
@@ -205,6 +229,14 @@
   img: /img/speakers/david.jpg
   img_hover: /img/speakers/david.jpg
   css_class: david
+
+- name: Annalise Lubbe
+  org: Carte Blanche
+  role: Television Producer
+  long_bio: Annalise is a seasoned South African television producer who have honed her skills in investigative journalism. Her career started off in news working for several international broadcasters as a sound engineer and then later an editor for ZDF during the days before Mandela was released. Her career took a side swing to children’s stories and the later on consumer programmes before she joined Carte Blanche as a producer.
+  img: /img/speakers/Annalise_Lubbe.jpg
+  img_hover: /img/speakers/Annalise_Lubbe.jpg
+  css_class: annalise
 
 - name: Odanga Madung
   org: Odipo Dev
@@ -398,26 +430,4 @@
   img_hover: /img/speakers/Hazel-Wei.jpg
   css_class: hazel
 
-- name: Kerry Friend
-  org: Bear Season
-  role: Co-founder
-  long_bio: Background in advertising as a creative. Headed up the Isobar Innovation team, NowLab, for 2 years. Co-founder of Bear Season Project - currently working at Wits University Innovation Precinct managing design sprints, hackathons and recently co-launched the IoT Lab, all under the auspices of Prof Dwolatzky. Now partnered with Adi Eyal, founder of OpenUp, to drive the civic tech programme, Codebridge.
-  img: /img/speakers/Kerry_Friend_opt.jpg
-  img_hover: /img/speakers/Kerry_Friend_opt.jpg
-  css_class: friend
 
-- name: Lewis Kaluzi
-  org: African Robots
-  role: Master Wire Artist
-  long_bio: Lewis has been making wire art for most of his life. He has plied his trade across Southern Africa, making work for local and foreign clients. Lewis is part of African Robots, a project introducing electronic and mechanical forms to street wire art.
-  img: /img/speakers/Lewis_Kaluzi_opt.jpg
-  img_hover: /img/speakers/Lewi_Kaluzi_opt.jpg
-  css_class: kaluzi
-
-- name: Peter Bale
-  org: Wikitribune
-  role: Editor
-  long_bio: Peter is the first editor of Wikitribune. He previously served as director of the Center for Public Integrity between 2014 and 2016, after a long career in journalism.
-  img: /img/speakers/Peter Bale_opt.jpg
-  img_hover: /img/speakers/Peter Bale_opt.jpg
-  css_class: peter
