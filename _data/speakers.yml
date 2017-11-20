@@ -326,14 +326,6 @@
   img_hover: /img/speakers/richard.jpg
   css_class: richard
 
-- name: Qiu Jiaqiu
-  org: Real Image Media
-  role: Founder
-  long_bio: Qiu Jiaqiu is founder of Real Image Media in China, and a former director of Caixin Video and Xinhua News journalist.
-  img: /img/speakers/Jiaqui-Qui.jpg
-  img_hover: /img/speakers/Jiaqui-Qui.jpg
-  css_class: jiaqui
-
 - name: Bilal Randeree
   org: SA Media Innovation Program
   role: Program Manager
