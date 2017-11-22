@@ -70,6 +70,14 @@
   img_hover: /img/speakers/ralph_borland_opt.jpg
   css_class: ralph
 
+- name: Ivo Brodnik
+  org: Q Division
+  role: Creative, System & Information Architect
+  long_bio: Ivo Brodnik is co-founder and technology and innovation partner at Q Division, a Cape Town based product and service design company. His multi-disciplinary background spans from super-computing to award winning ad campaigns.
+  img: /img/speakers/Ivo_Brodnik_opt.png
+  img_hover: /img/speakers/Ivo_Brodnik_opt.png
+  css_class: ivo
+
 - name: Catherine Gicheru
   org: ICFJ
   role: Knight Fellow
