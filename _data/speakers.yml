@@ -142,6 +142,14 @@
   img_hover: /img/speakers/Jerri-Eddings.jpg
   css_class: jerri
 
+- name: Adi Eyal
+  org: OpenUp
+  role: Founder
+  long_bio: Founder of OpenUp, a civic technology organisation promoting usage of data in order to drive social change. He founded South Africa's first data journalism academy and was awarded a Make All Voices Count fellowship to support civil society organisations use data in order to effect social change in South Africa. He was part of the team that won the Vodacom journalist of the year award in the online category and is on a mission to challenge the South African media to be a global center of innovation. He is also founding member ofd the Open Data and Democracy initiative, an Open Knowledge ambassador and a co-coordinator of the Hacks/Hackers chapter in Cape Town.
+  img: /img/speakers/Adi_Eyal.jpeg
+  img_hover: /img/speakers/Adi_Eyal.jpeg
+  css_class: adi
+
 - name: Kerry Friend
   org: Bear Season
   role: Co-founder
