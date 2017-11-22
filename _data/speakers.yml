@@ -126,6 +126,14 @@
   img_hover: /img/speakers/nic.jpg
   css_class: nic
 
+- name: Neil du Toit
+  org: Q Division
+  role: Data Strategist
+  long_bio: Neil du Toit is a data strategist at Q Division. His educational background is in mathematics and law. He is a former national debating champion, and specializes in communicating complex ideas through the clear presentation of data.
+  img: /img/speakers/Neil_du_Toit_opt.png
+  img_hover: /img/speakers/Neil_du_Toit_opt.png
+  css_class: neil
+
 - name: Jerri Eddings
   org: ICFJ
   role: Senior Program Director
