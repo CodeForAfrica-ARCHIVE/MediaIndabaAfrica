@@ -342,14 +342,6 @@
   img_hover: /img/speakers/ritvvij.jpg
   css_class: ritvvij
 
-- name: Shaheryar Popalzai
-  org: ICFJ
-  role: Knight Fellow
-  long_bio: Shaheryar Popalzai is a digital news strategist based in Karachi, Pakistan. He is a co-founder of Hacks/Hackers Pakistan and previously served as a special projects manager at The Express Tribune. He regularly conducts workshops and lectures on digital and data-driven journalism.
-  img: /img/speakers/popalzai.jpg
-  img_hover: /img/speakers/popalzai.jpg
-  css_class: popalzai
-
 - name: Richard Poplak
   org: Daily Maverick, et al.
   role: Senior Correspondent
